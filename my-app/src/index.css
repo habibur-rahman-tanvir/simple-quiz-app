@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.neon-text {
+    color: white;
+    text-shadow: 0 0 5px #ca31c3, 0 0 10px #e51aec, 0 0 20px #ff5a14,
+        0 0 40px rgb(0, 170, 255), 0 0 80px rgb(0, 85, 255);
+}

@@ -6,7 +6,7 @@ const science = [
         option3: "Jupiter",
         option4: "Saturn",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is H2O commonly known as?",
@@ -15,7 +15,7 @@ const science = [
         option3: "Water",
         option4: "Oxygen",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What gas do plants absorb from the atmosphere?",
@@ -24,7 +24,7 @@ const science = [
         option3: "Carbon Dioxide",
         option4: "Hydrogen",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the largest mammal in the world?",
@@ -33,7 +33,7 @@ const science = [
         option3: "Giraffe",
         option4: "Hippopotamus",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which metal is liquid at room temperature?",
@@ -42,7 +42,7 @@ const science = [
         option3: "Silver",
         option4: "Copper",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the chemical symbol for gold?",
@@ -51,7 +51,7 @@ const science = [
         option3: "Go",
         option4: "Gd",
         ans: 1,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Who discovered penicillin?",
@@ -60,7 +60,7 @@ const science = [
         option3: "Albert Einstein",
         option4: "Alexander Fleming",
         ans: 4,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the boiling point of water in Celsius?",
@@ -69,7 +69,7 @@ const science = [
         option3: "80°C",
         option4: "120°C",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the hardest natural substance?",
@@ -78,7 +78,7 @@ const science = [
         option3: "Diamond",
         option4: "Platinum",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which planet is closest to the Sun?",
@@ -87,7 +87,7 @@ const science = [
         option3: "Mercury",
         option4: "Mars",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which part of the plant conducts photosynthesis?",
@@ -96,7 +96,7 @@ const science = [
         option3: "Flower",
         option4: "Leaf",
         ans: 4,
-        category: "Science"
+        category: "science"
     },
     {
         question: "How many bones are in the human body?",
@@ -105,7 +105,7 @@ const science = [
         option3: "210",
         option4: "215",
         ans: 1,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which vitamin is produced when a person is exposed to sunlight?",
@@ -114,7 +114,7 @@ const science = [
         option3: "Vitamin C",
         option4: "Vitamin D",
         ans: 4,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the center of an atom called?",
@@ -123,7 +123,7 @@ const science = [
         option3: "Proton",
         option4: "Nucleus",
         ans: 4,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which blood cells help our body fight infection?",
@@ -132,7 +132,7 @@ const science = [
         option3: "Platelets",
         option4: "Plasma",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the main gas found in the air we breathe?",
@@ -141,7 +141,7 @@ const science = [
         option3: "Nitrogen",
         option4: "Hydrogen",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What type of energy does the sun produce?",
@@ -150,7 +150,7 @@ const science = [
         option3: "Thermal and Light Energy",
         option4: "Electrical Energy",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which organ in the human body produces insulin?",
@@ -159,7 +159,7 @@ const science = [
         option3: "Kidney",
         option4: "Heart",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What do you call animals that eat both plants and meat?",
@@ -168,7 +168,7 @@ const science = [
         option3: "Omnivores",
         option4: "Insectivores",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which part of the human eye controls the amount of light that enters?",
@@ -177,7 +177,7 @@ const science = [
         option3: "Retina",
         option4: "Cornea",
         ans: 1,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which force keeps the planets in orbit around the sun?",
@@ -186,7 +186,7 @@ const science = [
         option3: "Friction",
         option4: "Electricity",
         ans: 2,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which unit is used to measure electric current?",
@@ -195,7 +195,7 @@ const science = [
         option3: "Ampere",
         option4: "Watt",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the speed of light?",
@@ -204,7 +204,7 @@ const science = [
         option3: "300,000 km/s",
         option4: "3,000,000 km/s",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which scientist proposed the laws of motion?",
@@ -213,7 +213,7 @@ const science = [
         option3: "Isaac Newton",
         option4: "Stephen Hawking",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which state of matter has a definite shape and volume?",
@@ -222,7 +222,7 @@ const science = [
         option3: "Gas",
         option4: "Plasma",
         ans: 1,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which part of the cell contains genetic material?",
@@ -231,7 +231,7 @@ const science = [
         option3: "Nucleus",
         option4: "Cell membrane",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the process of converting solid directly to gas called?",
@@ -240,7 +240,7 @@ const science = [
         option3: "Sublimation",
         option4: "Melting",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which organ filters waste from the blood?",
@@ -249,7 +249,7 @@ const science = [
         option3: "Lungs",
         option4: "Kidney",
         ans: 4,
-        category: "Science"
+        category: "science"
     },
     {
         question: "What is the powerhouse of the cell?",
@@ -258,7 +258,7 @@ const science = [
         option3: "Mitochondria",
         option4: "Golgi Body",
         ans: 3,
-        category: "Science"
+        category: "science"
     },
     {
         question: "Which scientist developed the theory of relativity?",
@@ -267,7 +267,7 @@ const science = [
         option3: "Albert Einstein",
         option4: "Nikola Tesla",
         ans: 3,
-        category: "Science"
+        category: "science"
     }
 ];
 const technology = [
@@ -278,7 +278,7 @@ const technology = [
         option3: "Alexander Graham Bell",
         option4: "Thomas Edison",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which language is used to build websites?",
@@ -287,7 +287,7 @@ const technology = [
         option3: "Python",
         option4: "Bengali",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What does CPU stand for?",
@@ -296,7 +296,7 @@ const technology = [
         option3: "Computer Power Unit",
         option4: "Central Power Unit",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Who is known as the father of the computer?",
@@ -305,7 +305,7 @@ const technology = [
         option3: "Charles Babbage",
         option4: "Steve Jobs",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What does URL stand for?",
@@ -314,7 +314,7 @@ const technology = [
         option3: "Universal Remote Link",
         option4: "Unified Resource Language",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What does RAM stand for?",
@@ -323,7 +323,7 @@ const technology = [
         option3: "Remote Application Management",
         option4: "Rapid Access Machine",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which company developed the Windows operating system?",
@@ -332,7 +332,7 @@ const technology = [
         option3: "Microsoft",
         option4: "Google",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which one is a web browser?",
@@ -341,7 +341,7 @@ const technology = [
         option3: "Linux",
         option4: "MS Word",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What is used to style a web page?",
@@ -350,7 +350,7 @@ const technology = [
         option3: "CSS",
         option4: "C++",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which device is used to input text into a computer?",
@@ -359,7 +359,7 @@ const technology = [
         option3: "Keyboard",
         option4: "Speaker",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which social media platform is owned by Meta?",
@@ -368,7 +368,7 @@ const technology = [
         option3: "Snapchat",
         option4: "LinkedIn",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which company makes the iPhone?",
@@ -377,7 +377,7 @@ const technology = [
         option3: "Apple",
         option4: "Sony",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which of these is a programming language?",
@@ -386,7 +386,7 @@ const technology = [
         option3: "JavaScript",
         option4: "PowerPoint",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which component stores data permanently?",
@@ -395,7 +395,7 @@ const technology = [
         option3: "Cache",
         option4: "ROM",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What does AI stand for?",
@@ -404,7 +404,7 @@ const technology = [
         option3: "Auto Integration",
         option4: "Advanced Interface",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What is the brain of a computer?",
@@ -413,7 +413,7 @@ const technology = [
         option3: "Keyboard",
         option4: "Mouse",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which company owns Android OS?",
@@ -422,7 +422,7 @@ const technology = [
         option3: "Microsoft",
         option4: "Huawei",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which of the following is an input device?",
@@ -431,7 +431,7 @@ const technology = [
         option3: "Mouse",
         option4: "Printer",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What is the full form of USB?",
@@ -440,7 +440,7 @@ const technology = [
         option3: "Unified Serial Buffer",
         option4: "Universal Storage Base",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which file format is used for images?",
@@ -449,7 +449,7 @@ const technology = [
         option3: ".docx",
         option4: ".xlsx",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which tech founder is associated with Tesla?",
@@ -458,7 +458,7 @@ const technology = [
         option3: "Steve Jobs",
         option4: "Jeff Bezos",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What does HTTP stand for?",
@@ -467,7 +467,7 @@ const technology = [
         option3: "Hyper Terminal Transfer Process",
         option4: "None of the above",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What type of device is a smartphone?",
@@ -476,7 +476,7 @@ const technology = [
         option3: "Storage",
         option4: "Smart device",
         ans: 4,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which programming language is primarily used for iOS apps?",
@@ -485,7 +485,7 @@ const technology = [
         option3: "C",
         option4: "Python",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which technology is used to make calls over the internet?",
@@ -494,7 +494,7 @@ const technology = [
         option3: "VoIP",
         option4: "NFC",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which device helps connect computers to the internet?",
@@ -503,7 +503,7 @@ const technology = [
         option3: "Scanner",
         option4: "Monitor",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which company created the Google search engine?",
@@ -512,7 +512,7 @@ const technology = [
         option3: "Apple",
         option4: "Google",
         ans: 4,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which of these is NOT a search engine?",
@@ -521,7 +521,7 @@ const technology = [
         option3: "Firefox",
         option4: "Yahoo",
         ans: 3,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "Which software is used for making presentations?",
@@ -530,7 +530,7 @@ const technology = [
         option3: "MS Excel",
         option4: "MS Access",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What is the full form of ICT?",
@@ -539,7 +539,7 @@ const technology = [
         option3: "International Communication Technology",
         option4: "Internet and Coding Technology",
         ans: 2,
-        category: "Technology"
+        category: "technology"
     },
     {
         question: "What type of software is an antivirus?",
@@ -548,7 +548,7 @@ const technology = [
         option3: "System software",
         option4: "Web software",
         ans: 1,
-        category: "Technology"
+        category: "technology"
     }
 ];
 const english = [
@@ -559,7 +559,7 @@ const english = [
         option3: "Cool",
         option4: "Boiling",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the past tense of 'go'?",
@@ -568,7 +568,7 @@ const english = [
         option3: "Gone",
         option4: "Go",
         ans: 1,
-        category: "English"
+        category: "english"
     },
     {
         question: "Choose the correct spelling:",
@@ -577,7 +577,7 @@ const english = [
         option3: "Receeve",
         option4: "Receve",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the synonym of 'Happy'?",
@@ -586,7 +586,7 @@ const english = [
         option3: "Joyful",
         option4: "Upset",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is a noun?",
@@ -595,7 +595,7 @@ const english = [
         option3: "A naming word",
         option4: "A joining word",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Identify the verb in this sentence: 'She runs fast.'",
@@ -604,7 +604,7 @@ const english = [
         option3: "Fast",
         option4: "None",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which is a question word?",
@@ -613,7 +613,7 @@ const english = [
         option3: "Where",
         option4: "Run",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the plural of 'Child'?",
@@ -622,7 +622,7 @@ const english = [
         option3: "Childes",
         option4: "Childrens",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which is an adjective?",
@@ -631,7 +631,7 @@ const english = [
         option3: "Beautiful",
         option4: "Sing",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which sentence is correct?",
@@ -640,7 +640,7 @@ const english = [
         option3: "He gone to school.",
         option4: "He going to school.",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the opposite of 'Big'?",
@@ -649,7 +649,7 @@ const english = [
         option3: "Tiny",
         option4: "Wide",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Choose the correct article: '___ apple a day keeps the doctor away.'",
@@ -658,7 +658,7 @@ const english = [
         option3: "The",
         option4: "No article",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the past tense of 'eat'?",
@@ -667,7 +667,7 @@ const english = [
         option3: "Ate",
         option4: "Eating",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which word is a preposition?",
@@ -676,7 +676,7 @@ const english = [
         option3: "Under",
         option4: "Happily",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the correct form: 'They ___ playing outside.'",
@@ -685,7 +685,7 @@ const english = [
         option3: "was",
         option4: "has",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Choose the correct synonym of 'Fast':",
@@ -694,7 +694,7 @@ const english = [
         option3: "Heavy",
         option4: "Tired",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Identify the adverb in: 'He spoke softly.'",
@@ -703,7 +703,7 @@ const english = [
         option3: "Softly",
         option4: "None",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the correct plural of 'Mouse'?",
@@ -712,7 +712,7 @@ const english = [
         option3: "Mices",
         option4: "Mouse",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which word is spelled correctly?",
@@ -721,7 +721,7 @@ const english = [
         option3: "Definitely",
         option4: "Definetely",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which is a conjunction?",
@@ -730,7 +730,7 @@ const english = [
         option3: "Blue",
         option4: "Tall",
         ans: 1,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which one is an interjection?",
@@ -739,7 +739,7 @@ const english = [
         option3: "On",
         option4: "Happy",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "Complete the sentence: 'She has ___ umbrella.'",
@@ -748,7 +748,7 @@ const english = [
         option3: "the",
         option4: "no",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the comparative form of 'Good'?",
@@ -757,7 +757,7 @@ const english = [
         option3: "Better",
         option4: "Best",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which sentence uses future tense?",
@@ -766,7 +766,7 @@ const english = [
         option3: "He is walking home.",
         option4: "He will walk home.",
         ans: 4,
-        category: "English"
+        category: "english"
     },
     {
         question: "What type of word is 'Quickly'?",
@@ -775,7 +775,7 @@ const english = [
         option3: "Verb",
         option4: "Adverb",
         ans: 4,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which of the following is a pronoun?",
@@ -784,7 +784,7 @@ const english = [
         option3: "He",
         option4: "Beautiful",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Choose the correct sentence:",
@@ -793,7 +793,7 @@ const english = [
         option3: "She doesn't like tea.",
         option4: "She don't likes tea.",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which is a proper noun?",
@@ -802,7 +802,7 @@ const english = [
         option3: "country",
         option4: "river",
         ans: 2,
-        category: "English"
+        category: "english"
     },
     {
         question: "What is the opposite of 'Early'?",
@@ -811,7 +811,7 @@ const english = [
         option3: "Late",
         option4: "Fast",
         ans: 3,
-        category: "English"
+        category: "english"
     },
     {
         question: "Which word is used to ask a reason?",
@@ -820,7 +820,7 @@ const english = [
         option3: "When",
         option4: "How",
         ans: 2,
-        category: "English"
+        category: "english"
     }
 ];
 const bangla = [
@@ -831,7 +831,7 @@ const bangla = [
         option3: "Lalon Fakir",
         option4: "Begum Rokeya",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Sky'?",
@@ -840,7 +840,7 @@ const bangla = [
         option3: "Batash",
         option4: "Megh",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who is called the 'Rebel Poet' of Bangladesh?",
@@ -849,7 +849,7 @@ const bangla = [
         option3: "Kazi Nazrul Islam",
         option4: "Sukanta Bhattacharya",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Rain'?",
@@ -858,7 +858,7 @@ const bangla = [
         option3: "Megh",
         option4: "Nodi",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who wrote the poem 'Bidrohi'?",
@@ -867,7 +867,7 @@ const bangla = [
         option3: "Tagore",
         option4: "Bankim Chandra",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Flower'?",
@@ -876,7 +876,7 @@ const bangla = [
         option3: "Pata",
         option4: "Misti",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who was the first female Bengali writer and reformer?",
@@ -885,7 +885,7 @@ const bangla = [
         option3: "Taslima Nasrin",
         option4: "Meherunnesa",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Wind'?",
@@ -894,7 +894,7 @@ const bangla = [
         option3: "Gorom",
         option4: "Akas",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who is the author of 'Gitanjali'?",
@@ -903,7 +903,7 @@ const bangla = [
         option3: "Kazi Nazrul Islam",
         option4: "Lalon Shah",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'River'?",
@@ -912,7 +912,7 @@ const bangla = [
         option3: "Megh",
         option4: "Ful",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What does 'Sundor' mean?",
@@ -921,7 +921,7 @@ const bangla = [
         option3: "Rainy",
         option4: "Sad",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Tree'?",
@@ -930,7 +930,7 @@ const bangla = [
         option3: "Gachh",
         option4: "Dhora",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Sun'?",
@@ -939,7 +939,7 @@ const bangla = [
         option3: "Rong",
         option4: "Surjo",
         ans: 4,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Cloud'?",
@@ -948,7 +948,7 @@ const bangla = [
         option3: "Akas",
         option4: "Gachh",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Sweet'?",
@@ -957,7 +957,7 @@ const bangla = [
         option3: "Misti",
         option4: "Kharap",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What does 'Pani' mean in English?",
@@ -966,7 +966,7 @@ const bangla = [
         option3: "Water",
         option4: "Tea",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What does 'Boro' mean?",
@@ -975,7 +975,7 @@ const bangla = [
         option3: "New",
         option4: "Old",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who composed the national anthem of Bangladesh?",
@@ -984,7 +984,7 @@ const bangla = [
         option3: "Jasim Uddin",
         option4: "Sukanta",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Fish'?",
@@ -993,7 +993,7 @@ const bangla = [
         option3: "Machh",
         option4: "Khashi",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is 'Pathshala'?",
@@ -1002,7 +1002,7 @@ const bangla = [
         option3: "River",
         option4: "Tree",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Cold'?",
@@ -1011,7 +1011,7 @@ const bangla = [
         option3: "Ranna",
         option4: "Kharap",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who is known for Baul songs in Bengali culture?",
@@ -1020,7 +1020,7 @@ const bangla = [
         option3: "Nazrul",
         option4: "Sarat Chandra",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What does 'Chhoto' mean?",
@@ -1029,7 +1029,7 @@ const bangla = [
         option3: "Tall",
         option4: "Short",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Mother'?",
@@ -1038,7 +1038,7 @@ const bangla = [
         option3: "Ma",
         option4: "Didi",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Book'?",
@@ -1047,7 +1047,7 @@ const bangla = [
         option3: "Lekhha",
         option4: "Pata",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Fire'?",
@@ -1056,7 +1056,7 @@ const bangla = [
         option3: "Batash",
         option4: "Mati",
         ans: 1,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Earth'?",
@@ -1065,7 +1065,7 @@ const bangla = [
         option3: "Pani",
         option4: "Prithibi",
         ans: 4,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "Who wrote 'Nakshi Kanthar Math'?",
@@ -1074,7 +1074,7 @@ const bangla = [
         option3: "Jasimuddin",
         option4: "Nazrul",
         ans: 3,
-        category: "Bangla"
+        category: "bangla"
     },
     {
         question: "What is the Bengali word for 'Leaf'?",
@@ -1083,7 +1083,7 @@ const bangla = [
         option3: "Ful",
         option4: "Akas",
         ans: 2,
-        category: "Bangla"
+        category: "bangla"
     }
 ];
 const general = [
@@ -1094,7 +1094,7 @@ const general = [
         option3: "Dhaka",
         option4: "Rajshahi",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which is the longest river in the world?",
@@ -1103,7 +1103,7 @@ const general = [
         option3: "Nile",
         option4: "Padma",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the national animal of Bangladesh?",
@@ -1112,7 +1112,7 @@ const general = [
         option3: "Deer",
         option4: "Lion",
         ans: 1,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the national flower of Bangladesh?",
@@ -1121,7 +1121,7 @@ const general = [
         option3: "Water Lily",
         option4: "Lotus",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which continent is the largest?",
@@ -1130,7 +1130,7 @@ const general = [
         option3: "Europe",
         option4: "Australia",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which planet do we live on?",
@@ -1139,7 +1139,7 @@ const general = [
         option3: "Jupiter",
         option4: "Venus",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which festival is known as the Festival of Lights?",
@@ -1148,7 +1148,7 @@ const general = [
         option3: "Christmas",
         option4: "Pohela Boishakh",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which ocean is the largest?",
@@ -1157,7 +1157,7 @@ const general = [
         option3: "Arctic Ocean",
         option4: "Pacific Ocean",
         ans: 4,
-        category: "General"
+        category: "general"
     },
     {
         question: "Who is the founder of Facebook?",
@@ -1166,7 +1166,7 @@ const general = [
         option3: "Mark Zuckerberg",
         option4: "Bill Gates",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which country is known as the Land of the Rising Sun?",
@@ -1175,7 +1175,7 @@ const general = [
         option3: "Thailand",
         option4: "Korea",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "What color are the stars on the US flag?",
@@ -1184,7 +1184,7 @@ const general = [
         option3: "White",
         option4: "Green",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "How many continents are there?",
@@ -1193,7 +1193,7 @@ const general = [
         option3: "7",
         option4: "8",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the national sport of Bangladesh?",
@@ -1202,7 +1202,7 @@ const general = [
         option3: "Kabaddi",
         option4: "Cricket",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which day is celebrated as International Mother Language Day?",
@@ -1211,7 +1211,7 @@ const general = [
         option3: "16 December",
         option4: "1 May",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the national fruit of Bangladesh?",
@@ -1220,7 +1220,7 @@ const general = [
         option3: "Jackfruit",
         option4: "Litchi",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the currency of Bangladesh?",
@@ -1229,7 +1229,7 @@ const general = [
         option3: "Dollar",
         option4: "Riyal",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the capital of India?",
@@ -1238,7 +1238,7 @@ const general = [
         option3: "Kolkata",
         option4: "Chennai",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "What color do you get when you mix red and white?",
@@ -1247,7 +1247,7 @@ const general = [
         option3: "Orange",
         option4: "Brown",
         ans: 1,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which country has the most population?",
@@ -1256,7 +1256,7 @@ const general = [
         option3: "India",
         option4: "Russia",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which month has 28 days (in non-leap years)?",
@@ -1265,7 +1265,7 @@ const general = [
         option3: "June",
         option4: "September",
         ans: 1,
-        category: "General"
+        category: "general"
     },
     {
         question: "How many hours are there in a day?",
@@ -1274,7 +1274,7 @@ const general = [
         option3: "30",
         option4: "60",
         ans: 1,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which season comes after winter?",
@@ -1283,7 +1283,7 @@ const general = [
         option3: "Spring",
         option4: "Autumn",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which shape has three sides?",
@@ -1292,7 +1292,7 @@ const general = [
         option3: "Triangle",
         option4: "Circle",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which is the largest country in the world by area?",
@@ -1301,7 +1301,7 @@ const general = [
         option3: "Russia",
         option4: "USA",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which day comes after Friday?",
@@ -1310,7 +1310,7 @@ const general = [
         option3: "Thursday",
         option4: "Monday",
         ans: 1,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which is the tallest mountain in the world?",
@@ -1319,7 +1319,7 @@ const general = [
         option3: "Kangchenjunga",
         option4: "Lhotse",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which animal is known as the King of the Jungle?",
@@ -1328,7 +1328,7 @@ const general = [
         option3: "Lion",
         option4: "Leopard",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "What is the name of our galaxy?",
@@ -1337,7 +1337,7 @@ const general = [
         option3: "Black Hole",
         option4: "Solar Galaxy",
         ans: 2,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which direction does the sun rise from?",
@@ -1346,7 +1346,7 @@ const general = [
         option3: "East",
         option4: "West",
         ans: 3,
-        category: "General"
+        category: "general"
     },
     {
         question: "Which is the smallest continent?",
@@ -1355,7 +1355,7 @@ const general = [
         option3: "Antarctica",
         option4: "South America",
         ans: 2,
-        category: "General"
+        category: "general"
     }
 ];
 const math = [
@@ -1366,7 +1366,7 @@ const math = [
         option3: "9",
         option4: "6",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 12 - 4?",
@@ -1375,7 +1375,7 @@ const math = [
         option3: "8",
         option4: "7",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 6 × 7?",
@@ -1384,7 +1384,7 @@ const math = [
         option3: "48",
         option4: "40",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 20 ÷ 5?",
@@ -1393,7 +1393,7 @@ const math = [
         option3: "5",
         option4: "6",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is the square root of 49?",
@@ -1402,7 +1402,7 @@ const math = [
         option3: "7",
         option4: "9",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 10% of 100?",
@@ -1411,7 +1411,7 @@ const math = [
         option3: "15",
         option4: "20",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 9 × 9?",
@@ -1420,7 +1420,7 @@ const math = [
         option3: "90",
         option4: "99",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 100 - 25?",
@@ -1429,7 +1429,7 @@ const math = [
         option3: "85",
         option4: "80",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 15 + 27?",
@@ -1438,7 +1438,7 @@ const math = [
         option3: "43",
         option4: "40",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 8 × 8?",
@@ -1447,7 +1447,7 @@ const math = [
         option3: "72",
         option4: "60",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 121 ÷ 11?",
@@ -1456,7 +1456,7 @@ const math = [
         option3: "11",
         option4: "12",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is the value of π (approximately)?",
@@ -1465,7 +1465,7 @@ const math = [
         option3: "4.13",
         option4: "1.41",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 2³?",
@@ -1474,7 +1474,7 @@ const math = [
         option3: "9",
         option4: "12",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 1000 ÷ 10?",
@@ -1483,7 +1483,7 @@ const math = [
         option3: "110",
         option4: "90",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 25 × 4?",
@@ -1492,7 +1492,7 @@ const math = [
         option3: "125",
         option4: "90",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 3 + 6 × 2?",
@@ -1501,7 +1501,7 @@ const math = [
         option3: "12",
         option4: "21",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 144 ÷ 12?",
@@ -1510,7 +1510,7 @@ const math = [
         option3: "14",
         option4: "11",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 2 + 2 × 2?",
@@ -1519,7 +1519,7 @@ const math = [
         option3: "4",
         option4: "10",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is the square of 12?",
@@ -1528,7 +1528,7 @@ const math = [
         option3: "144",
         option4: "156",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "Which number is a prime number?",
@@ -1537,7 +1537,7 @@ const math = [
         option3: "15",
         option4: "21",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 7²?",
@@ -1546,7 +1546,7 @@ const math = [
         option3: "56",
         option4: "63",
         ans: 1,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 50% of 200?",
@@ -1555,7 +1555,7 @@ const math = [
         option3: "100",
         option4: "125",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 10²?",
@@ -1564,7 +1564,7 @@ const math = [
         option3: "10",
         option4: "110",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "Which number is even?",
@@ -1573,7 +1573,7 @@ const math = [
         option3: "10",
         option4: "9",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 30 + 70?",
@@ -1582,7 +1582,7 @@ const math = [
         option3: "110",
         option4: "120",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 0 × 100?",
@@ -1591,7 +1591,7 @@ const math = [
         option3: "0",
         option4: "10",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 100 + 200?",
@@ -1600,7 +1600,7 @@ const math = [
         option3: "300",
         option4: "325",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 81 ÷ 9?",
@@ -1609,7 +1609,7 @@ const math = [
         option3: "10",
         option4: "7",
         ans: 2,
-        category: "Math"
+        category: "math"
     },
     {
         question: "Which number is divisible by 5?",
@@ -1618,7 +1618,7 @@ const math = [
         option3: "35",
         option4: "37",
         ans: 3,
-        category: "Math"
+        category: "math"
     },
     {
         question: "What is 60 - 15?",
@@ -1627,7 +1627,7 @@ const math = [
         option3: "50",
         option4: "35",
         ans: 1,
-        category: "Math"
+        category: "math"
     }
 ];
 const history = [
@@ -1638,7 +1638,7 @@ const history = [
         option3: "George Washington",
         option4: "John Adams",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "In which year did World War II end?",
@@ -1647,7 +1647,7 @@ const history = [
         option3: "1918",
         option4: "1963",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was known as the 'Mahatma'?",
@@ -1656,7 +1656,7 @@ const history = [
         option3: "Mahatma Gandhi",
         option4: "Subhas Chandra Bose",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which empire was ruled by Alexander the Great?",
@@ -1665,7 +1665,7 @@ const history = [
         option3: "Ottoman Empire",
         option4: "Mughal Empire",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "What was the main cause of the French Revolution?",
@@ -1674,7 +1674,7 @@ const history = [
         option3: "War with England",
         option4: "Scientific discoveries",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who discovered America in 1492?",
@@ -1683,7 +1683,7 @@ const history = [
         option3: "Vasco da Gama",
         option4: "Marco Polo",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "When was the Declaration of Independence signed?",
@@ -1692,7 +1692,7 @@ const history = [
         option3: "1804",
         option4: "1812",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the first Prime Minister of India?",
@@ -1701,7 +1701,7 @@ const history = [
         option3: "Mahatma Gandhi",
         option4: "Rajendra Prasad",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which civilization built the pyramids?",
@@ -1710,7 +1710,7 @@ const history = [
         option3: "Egyptians",
         option4: "Greeks",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "What was the name of the ship on which the Pilgrims traveled to America?",
@@ -1719,7 +1719,7 @@ const history = [
         option3: "Titanic",
         option4: "Beagle",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the leader of the Soviet Union during World War II?",
@@ -1728,7 +1728,7 @@ const history = [
         option3: "Nikita Khrushchev",
         option4: "Mikhail Gorbachev",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "The Berlin Wall fell in which year?",
@@ -1737,7 +1737,7 @@ const history = [
         option3: "1975",
         option4: "1961",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the Egyptian queen famous for her beauty and power?",
@@ -1746,7 +1746,7 @@ const history = [
         option3: "Hatshepsut",
         option4: "Nefertari",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "When did the American Civil War start?",
@@ -1755,7 +1755,7 @@ const history = [
         option3: "1812",
         option4: "1914",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the famous female pharaoh of ancient Egypt?",
@@ -1764,7 +1764,7 @@ const history = [
         option3: "Nefertiti",
         option4: "Isis",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which war was fought between the North and South regions in the USA?",
@@ -1773,7 +1773,7 @@ const history = [
         option3: "Vietnam War",
         option4: "Revolutionary War",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who invented the printing press?",
@@ -1782,7 +1782,7 @@ const history = [
         option3: "Alexander Graham Bell",
         option4: "Benjamin Franklin",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which empire was known for its road system and architecture in South America?",
@@ -1791,7 +1791,7 @@ const history = [
         option3: "Maya Empire",
         option4: "Olmec Empire",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the leader of the Indian independence movement?",
@@ -1800,7 +1800,7 @@ const history = [
         option3: "Mahatma Gandhi",
         option4: "Jawaharlal Nehru",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "When did the Titanic sink?",
@@ -1809,7 +1809,7 @@ const history = [
         option3: "1920",
         option4: "1898",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the famous Renaissance artist who painted the Mona Lisa?",
@@ -1818,7 +1818,7 @@ const history = [
         option3: "Leonardo da Vinci",
         option4: "Donatello",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which country was formerly known as Persia?",
@@ -1827,7 +1827,7 @@ const history = [
         option3: "Turkey",
         option4: "Egypt",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "When was the United Nations founded?",
@@ -1836,7 +1836,7 @@ const history = [
         option3: "1939",
         option4: "1955",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the first man to walk on the Moon?",
@@ -1845,7 +1845,7 @@ const history = [
         option3: "Neil Armstrong",
         option4: "Michael Collins",
         ans: 3,
-        category: "History"
+        category: "history"
     },
     {
         question: "Which ancient civilization is known for the Code of Hammurabi?",
@@ -1854,7 +1854,7 @@ const history = [
         option3: "Romans",
         option4: "Greeks",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was the last Emperor of the Roman Empire?",
@@ -1863,7 +1863,7 @@ const history = [
         option3: "Nero",
         option4: "Julius Caesar",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "What was the main cause of World War I?",
@@ -1872,7 +1872,7 @@ const history = [
         option3: "Religious conflict",
         option4: "Colonial disputes",
         ans: 1,
-        category: "History"
+        category: "history"
     },
     {
         question: "Where was the ancient city of Troy located?",
@@ -1881,7 +1881,7 @@ const history = [
         option3: "Italy",
         option4: "Egypt",
         ans: 2,
-        category: "History"
+        category: "history"
     },
     {
         question: "Who was known as the 'Iron Lady'?",
@@ -1890,7 +1890,7 @@ const history = [
         option3: "Golda Meir",
         option4: "Angela Merkel",
         ans: 2,
-        category: "History"
+        category: "history"
     }
 ];
 const geography = [
@@ -1901,7 +1901,7 @@ const geography = [
         option3: "Europe",
         option4: "Antarctica",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the longest river in the world?",
@@ -1910,7 +1910,7 @@ const geography = [
         option3: "Yangtze",
         option4: "Mississippi",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Mount Everest is located in which mountain range?",
@@ -1919,7 +1919,7 @@ const geography = [
         option3: "Himalayas",
         option4: "Alps",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country has the largest population?",
@@ -1928,7 +1928,7 @@ const geography = [
         option3: "China",
         option4: "Russia",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "What is the capital city of Australia?",
@@ -1937,7 +1937,7 @@ const geography = [
         option3: "Canberra",
         option4: "Perth",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which ocean is the deepest?",
@@ -1946,7 +1946,7 @@ const geography = [
         option3: "Pacific Ocean",
         option4: "Arctic Ocean",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which desert is the largest in the world?",
@@ -1955,7 +1955,7 @@ const geography = [
         option3: "Kalahari",
         option4: "Arctic",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "What is the smallest country in the world?",
@@ -1964,7 +1964,7 @@ const geography = [
         option3: "Nauru",
         option4: "San Marino",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country is known as the Land of the Rising Sun?",
@@ -1973,7 +1973,7 @@ const geography = [
         option3: "South Korea",
         option4: "Thailand",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the largest island in the world?",
@@ -1982,7 +1982,7 @@ const geography = [
         option3: "Borneo",
         option4: "Madagascar",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which river flows through Paris?",
@@ -1991,7 +1991,7 @@ const geography = [
         option3: "Danube",
         option4: "Rhine",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country has the longest coastline?",
@@ -2000,7 +2000,7 @@ const geography = [
         option3: "Canada",
         option4: "Indonesia",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which city is known as the City of Canals?",
@@ -2009,7 +2009,7 @@ const geography = [
         option3: "Bangkok",
         option4: "Bruges",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which continent is known as the Dark Continent?",
@@ -2018,7 +2018,7 @@ const geography = [
         option3: "South America",
         option4: "Europe",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which mountain is the tallest in Africa?",
@@ -2027,7 +2027,7 @@ const geography = [
         option3: "Mount Elgon",
         option4: "Mount Meru",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "What is the capital of Canada?",
@@ -2036,7 +2036,7 @@ const geography = [
         option3: "Vancouver",
         option4: "Montreal",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country is famous for the Great Barrier Reef?",
@@ -2045,7 +2045,7 @@ const geography = [
         option3: "South Africa",
         option4: "India",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which sea is the saltiest in the world?",
@@ -2054,7 +2054,7 @@ const geography = [
         option3: "Baltic Sea",
         option4: "Black Sea",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the largest lake in the world?",
@@ -2063,7 +2063,7 @@ const geography = [
         option3: "Lake Victoria",
         option4: "Lake Baikal",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "What is the capital of Bangladesh?",
@@ -2072,7 +2072,7 @@ const geography = [
         option3: "Dhaka",
         option4: "Rajshahi",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country is called the Land of Thousand Lakes?",
@@ -2081,7 +2081,7 @@ const geography = [
         option3: "Sweden",
         option4: "Iceland",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which river is known as the Yellow River?",
@@ -2090,7 +2090,7 @@ const geography = [
         option3: "Mekong",
         option4: "Ganges",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the coldest continent on Earth?",
@@ -2099,7 +2099,7 @@ const geography = [
         option3: "Asia",
         option4: "Europe",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country has the highest waterfall, Angel Falls?",
@@ -2108,7 +2108,7 @@ const geography = [
         option3: "Argentina",
         option4: "Colombia",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country is home to the Sahara Desert?",
@@ -2117,7 +2117,7 @@ const geography = [
         option3: "Morocco",
         option4: "All of the above",
         ans: 4,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which city is the capital of Japan?",
@@ -2126,7 +2126,7 @@ const geography = [
         option3: "Tokyo",
         option4: "Hiroshima",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which country is the largest producer of coffee?",
@@ -2135,7 +2135,7 @@ const geography = [
         option3: "Brazil",
         option4: "Ethiopia",
         ans: 3,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the largest peninsula in the world?",
@@ -2144,7 +2144,7 @@ const geography = [
         option3: "Iberian Peninsula",
         option4: "Korean Peninsula",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "What is the capital city of South Korea?",
@@ -2153,7 +2153,7 @@ const geography = [
         option3: "Incheon",
         option4: "Daegu",
         ans: 1,
-        category: "Geography"
+        category: "geography"
     },
     {
         question: "Which is the tallest waterfall in the world?",
@@ -2162,7 +2162,7 @@ const geography = [
         option3: "Victoria Falls",
         option4: "Iguazu Falls",
         ans: 2,
-        category: "Geography"
+        category: "geography"
     }
 ];
 const economics = [
@@ -2173,7 +2173,7 @@ const economics = [
         option3: "Gross Debt Payment",
         option4: "General Debt Product",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Who is known as the father of Economics?",
@@ -2182,7 +2182,7 @@ const economics = [
         option3: "Karl Marx",
         option4: "Milton Friedman",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does inflation refer to?",
@@ -2191,7 +2191,7 @@ const economics = [
         option3: "Decrease in prices",
         option4: "Decrease in demand",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is the currency of Japan?",
@@ -2200,7 +2200,7 @@ const economics = [
         option3: "Won",
         option4: "Dollar",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which organization manages the world’s monetary system?",
@@ -2209,7 +2209,7 @@ const economics = [
         option3: "World Trade Organization (WTO)",
         option4: "United Nations (UN)",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘demand’ in economics?",
@@ -2218,7 +2218,7 @@ const economics = [
         option3: "Price of goods",
         option4: "Government tax",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which country has the largest economy in the world?",
@@ -2227,7 +2227,7 @@ const economics = [
         option3: "Japan",
         option4: "Germany",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘inflation rate’?",
@@ -2236,7 +2236,7 @@ const economics = [
         option3: "Rate of economic growth",
         option4: "Rate of production",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Who wrote 'The Wealth of Nations'?",
@@ -2245,7 +2245,7 @@ const economics = [
         option3: "David Ricardo",
         option4: "Karl Marx",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does 'tariff' mean?",
@@ -2254,7 +2254,7 @@ const economics = [
         option3: "A type of loan",
         option4: "A government bond",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which is considered a developing country?",
@@ -2263,7 +2263,7 @@ const economics = [
         option3: "Germany",
         option4: "Japan",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘monetary policy’?",
@@ -2272,7 +2272,7 @@ const economics = [
         option3: "International trade rules",
         option4: "Labor laws",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does 'recession' mean?",
@@ -2281,7 +2281,7 @@ const economics = [
         option3: "Inflation rise",
         option4: "Increase in exports",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is the main function of a central bank?",
@@ -2290,7 +2290,7 @@ const economics = [
         option3: "Collecting taxes",
         option4: "Managing imports",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which is a factor of production?",
@@ -2299,7 +2299,7 @@ const economics = [
         option3: "Demand",
         option4: "Price",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does ‘capital’ mean in economics?",
@@ -2308,7 +2308,7 @@ const economics = [
         option3: "Natural resources",
         option4: "Finished goods",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which is the currency of the European Union?",
@@ -2317,7 +2317,7 @@ const economics = [
         option3: "Pound",
         option4: "Franc",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘supply’ in economics?",
@@ -2326,7 +2326,7 @@ const economics = [
         option3: "Price of goods",
         option4: "Tax rate",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Who controls fiscal policy?",
@@ -2335,7 +2335,7 @@ const economics = [
         option3: "International organizations",
         option4: "Private companies",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does GDP per capita measure?",
@@ -2344,7 +2344,7 @@ const economics = [
         option3: "Government spending",
         option4: "Inflation rate",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which term describes a market with many sellers and buyers?",
@@ -2353,7 +2353,7 @@ const economics = [
         option3: "Perfect competition",
         option4: "Monopsony",
         ans: 3,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘opportunity cost’?",
@@ -2362,7 +2362,7 @@ const economics = [
         option3: "Government tax",
         option4: "Production cost",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is a ‘budget deficit’?",
@@ -2371,7 +2371,7 @@ const economics = [
         option3: "When exports exceed imports",
         option4: "When imports exceed exports",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Which sector deals with agriculture and mining?",
@@ -2380,7 +2380,7 @@ const economics = [
         option3: "Tertiary sector",
         option4: "Quaternary sector",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘free trade’?",
@@ -2389,7 +2389,7 @@ const economics = [
         option3: "Trade only within a country",
         option4: "Trade between friends",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "Who is the current head of the World Bank? (as of 2024)",
@@ -2398,7 +2398,7 @@ const economics = [
         option3: "Ajay Banga",
         option4: "Ngozi Okonjo-Iweala",
         ans: 3,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What does 'unemployment rate' measure?",
@@ -2407,7 +2407,7 @@ const economics = [
         option3: "Percentage of students",
         option4: "Percentage of retired people",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘capitalism’?",
@@ -2416,7 +2416,7 @@ const economics = [
         option3: "Economic system with no trade",
         option4: "Economic system based on barter",
         ans: 1,
-        category: "Economics"
+        category: "economics"
     },
     {
         question: "What is ‘subsistence farming’?",
@@ -2425,7 +2425,7 @@ const economics = [
         option3: "Farming with machines",
         option4: "Farming in cities",
         ans: 2,
-        category: "Economics"
+        category: "economics"
     }
 ];
 const sports = [
@@ -2436,7 +2436,7 @@ const sports = [
         option3: "Argentina",
         option4: "Italy",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "How many players are there in a cricket team on the field?",
@@ -2445,7 +2445,7 @@ const sports = [
         option3: "11",
         option4: "12",
         ans: 3,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Who holds the record for the most Olympic gold medals?",
@@ -2454,7 +2454,7 @@ const sports = [
         option3: "Carl Lewis",
         option4: "Simone Biles",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport is known as the 'king of sports'?",
@@ -2463,7 +2463,7 @@ const sports = [
         option3: "Cricket",
         option4: "Tennis",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "In tennis, what is the term for zero points?",
@@ -2472,7 +2472,7 @@ const sports = [
         option3: "Zero",
         option4: "Blank",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which country is known for the origin of judo?",
@@ -2481,7 +2481,7 @@ const sports = [
         option3: "Korea",
         option4: "Thailand",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Who is known as the 'Fastest Man Alive'?",
@@ -2490,7 +2490,7 @@ const sports = [
         option3: "Michael Johnson",
         option4: "Justin Gatlin",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "In which sport do players compete for the Stanley Cup?",
@@ -2499,7 +2499,7 @@ const sports = [
         option3: "Baseball",
         option4: "American Football",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "How many players are on a basketball court for one team?",
@@ -2508,7 +2508,7 @@ const sports = [
         option3: "6",
         option4: "7",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which country hosts the Tour de France cycling race?",
@@ -2517,7 +2517,7 @@ const sports = [
         option3: "Spain",
         option4: "Belgium",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport uses a shuttlecock?",
@@ -2526,7 +2526,7 @@ const sports = [
         option3: "Table Tennis",
         option4: "Squash",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "In which sport is the term 'home run' used?",
@@ -2535,7 +2535,7 @@ const sports = [
         option3: "Football",
         option4: "Basketball",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which athlete has won the most Formula 1 World Championships?",
@@ -2544,7 +2544,7 @@ const sports = [
         option3: "Sebastian Vettel",
         option4: "Ayrton Senna",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which country won the Rugby World Cup in 2019?",
@@ -2553,7 +2553,7 @@ const sports = [
         option3: "New Zealand",
         option4: "Australia",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport is associated with Wimbledon?",
@@ -2562,7 +2562,7 @@ const sports = [
         option3: "Football",
         option4: "Golf",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Who is considered the greatest basketball player of all time?",
@@ -2571,7 +2571,7 @@ const sports = [
         option3: "Kobe Bryant",
         option4: "Magic Johnson",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "How many players are there in a soccer team on the field?",
@@ -2580,7 +2580,7 @@ const sports = [
         option3: "11",
         option4: "12",
         ans: 3,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport uses the terms 'birdie' and 'smash'?",
@@ -2589,7 +2589,7 @@ const sports = [
         option3: "Squash",
         option4: "Table Tennis",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which country won the 2018 FIFA World Cup?",
@@ -2598,7 +2598,7 @@ const sports = [
         option3: "France",
         option4: "Argentina",
         ans: 3,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "In which sport is the 'Ashes' series played?",
@@ -2607,7 +2607,7 @@ const sports = [
         option3: "Rugby",
         option4: "Tennis",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Who holds the record for the most goals in World Cup history?",
@@ -2616,7 +2616,7 @@ const sports = [
         option3: "Ronaldo Nazário",
         option4: "Lionel Messi",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport features the terms 'scrum' and 'try'?",
@@ -2625,7 +2625,7 @@ const sports = [
         option3: "Basketball",
         option4: "Ice Hockey",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which city hosted the 2016 Summer Olympics?",
@@ -2634,7 +2634,7 @@ const sports = [
         option3: "Rio de Janeiro",
         option4: "Beijing",
         ans: 3,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which country is famous for sumo wrestling?",
@@ -2643,7 +2643,7 @@ const sports = [
         option3: "South Korea",
         option4: "Mongolia",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "How many points is a touchdown worth in American football?",
@@ -2652,7 +2652,7 @@ const sports = [
         option3: "1",
         option4: "7",
         ans: 1,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Who won the most NBA championships as a player?",
@@ -2661,7 +2661,7 @@ const sports = [
         option3: "Kobe Bryant",
         option4: "LeBron James",
         ans: 2,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "Which sport involves a net, a racket, and a small white ball?",
@@ -2670,7 +2670,7 @@ const sports = [
         option3: "Table Tennis",
         option4: "Squash",
         ans: 3,
-        category: "Sports"
+        category: "sports"
     },
     {
         question: "What is the term for a score of zero in tennis?",
@@ -2679,279 +2679,7 @@ const sports = [
         option3: "Love",
         option4: "Duck",
         ans: 3,
-        category: "Sports"
-    }
-];
-const logicPuzzle = [
-    {
-        question: "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
-        option1: "Yes",
-        option2: "No",
-        option3: "Cannot say",
-        option4: "Only sometimes",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What comes next in the sequence? 2, 4, 8, 16, ?",
-        option1: "18",
-        option2: "20",
-        option3: "32",
-        option4: "24",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "A is older than B but younger than C. Who is the oldest?",
-        option1: "A",
-        option2: "B",
-        option3: "C",
-        option4: "Cannot say",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If you have 3 apples and you take away 2, how many do you have?",
-        option1: "1",
-        option2: "2",
-        option3: "3",
-        option4: "None",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "Which number is the odd one out? 2, 4, 7, 8, 10",
-        option1: "7",
-        option2: "8",
-        option3: "10",
-        option4: "4",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If two pencils cost 8 cents, how much do five pencils cost?",
-        option1: "20 cents",
-        option2: "18 cents",
-        option3: "16 cents",
-        option4: "40 cents",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "Which shape has 4 equal sides and 4 right angles?",
-        option1: "Rectangle",
-        option2: "Square",
-        option3: "Rhombus",
-        option4: "Trapezium",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "Find the missing number: 5, 10, 15, __, 25",
-        option1: "20",
-        option2: "18",
-        option3: "22",
-        option4: "30",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If all cats are animals and some animals are dogs, are all cats dogs?",
-        option1: "Yes",
-        option2: "No",
-        option3: "Cannot say",
-        option4: "Sometimes",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "How many sides does a hexagon have?",
-        option1: "5",
-        option2: "6",
-        option3: "7",
-        option4: "8",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "Which word does not belong? Apple, Banana, Carrot, Grape",
-        option1: "Apple",
-        option2: "Banana",
-        option3: "Carrot",
-        option4: "Grape",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If you rearrange the letters 'LISTEN', what word can you make?",
-        option1: "Silent",
-        option2: "Enlist",
-        option3: "Tinsel",
-        option4: "All of the above",
-        ans: 4,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What is the next number in the pattern: 1, 1, 2, 3, 5, 8, ?",
-        option1: "10",
-        option2: "12",
-        option3: "13",
-        option4: "15",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If a hen and a half lay an egg and a half in a day and a half, how many eggs will half a dozen hens lay in half a dozen days?",
-        option1: "6",
-        option2: "12",
-        option3: "24",
-        option4: "36",
-        ans: 4,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If it takes 5 machines 5 minutes to make 5 widgets, how long does it take 100 machines to make 100 widgets?",
-        option1: "5 minutes",
-        option2: "100 minutes",
-        option3: "20 minutes",
-        option4: "50 minutes",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If you multiply this number by any other number, the result is always the same. What is the number?",
-        option1: "0",
-        option2: "1",
-        option3: "2",
-        option4: "Any number",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
-        option1: "Echo",
-        option2: "Shadow",
-        option3: "Whistle",
-        option4: "Silence",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What has keys but can't open locks?",
-        option1: "Map",
-        option2: "Piano",
-        option3: "Keyboard",
-        option4: "Locksmith",
-        ans: 3,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What comes next in the sequence: J, F, M, A, M, ?",
-        option1: "J",
-        option2: "S",
-        option3: "M",
-        option4: "J",
-        ans: 4,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "How many times can you subtract 5 from 25?",
-        option1: "5",
-        option2: "1",
-        option3: "25",
-        option4: "0",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What is always in front of you but can’t be seen?",
-        option1: "The future",
-        option2: "Air",
-        option3: "Shadow",
-        option4: "Time",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What has to be broken before you can use it?",
-        option1: "Egg",
-        option2: "Glass",
-        option3: "Seal",
-        option4: "Window",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If there are three apples and you take away two, how many do you have?",
-        option1: "One",
-        option2: "Two",
-        option3: "Three",
-        option4: "None",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "Which number logically replaces the question mark? 3, 9, 27, ?",
-        option1: "54",
-        option2: "81",
-        option3: "72",
-        option4: "90",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What can travel around the world while staying in the same spot?",
-        option1: "A stamp",
-        option2: "An airplane",
-        option3: "A satellite",
-        option4: "The sun",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What is the next number in the series? 4, 9, 16, 25, ?",
-        option1: "30",
-        option2: "36",
-        option3: "49",
-        option4: "40",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "I am not alive, but I grow; I don't have lungs, but I need air. What am I?",
-        option1: "Fire",
-        option2: "Water",
-        option3: "Cloud",
-        option4: "Tree",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What begins with T, ends with T, and has T in it?",
-        option1: "Tent",
-        option2: "Teapot",
-        option3: "Ticket",
-        option4: "Toast",
-        ans: 2,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "What has one eye but can’t see?",
-        option1: "Needle",
-        option2: "Storm",
-        option3: "Cyclops",
-        option4: "Hurricane",
-        ans: 1,
-        category: "Logic & Puzzle"
-    },
-    {
-        question: "If you are running a race and you pass the person in second place, what place are you in?",
-        option1: "First",
-        option2: "Second",
-        option3: "Third",
-        option4: "Fourth",
-        ans: 2,
-        category: "Logic & Puzzle"
+        category: "sports"
     }
 ];
 const politics = [
@@ -2962,7 +2690,7 @@ const politics = [
         option3: "Niccolò Machiavelli",
         option4: "John Locke",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which document declared the independence of the United States?",
@@ -2971,7 +2699,7 @@ const politics = [
         option3: "Constitution",
         option4: "Federalist Papers",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who was the first Prime Minister of India?",
@@ -2980,7 +2708,7 @@ const politics = [
         option3: "Indira Gandhi",
         option4: "Rajendra Prasad",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What type of government does the United Kingdom have?",
@@ -2989,7 +2717,7 @@ const politics = [
         option3: "Republic",
         option4: "Dictatorship",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which political ideology supports free market and limited government intervention?",
@@ -2998,7 +2726,7 @@ const politics = [
         option3: "Liberalism",
         option4: "Capitalism",
         ans: 4,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who wrote 'The Prince'?",
@@ -3007,7 +2735,7 @@ const politics = [
         option3: "John Locke",
         option4: "Karl Marx",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the supreme law of the United States?",
@@ -3016,7 +2744,7 @@ const politics = [
         option3: "The Constitution",
         option4: "Emancipation Proclamation",
         ans: 3,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which country has the world’s largest democracy?",
@@ -3025,7 +2753,7 @@ const politics = [
         option3: "Brazil",
         option4: "Indonesia",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who was the first President of the United States?",
@@ -3034,7 +2762,7 @@ const politics = [
         option3: "Abraham Lincoln",
         option4: "John Adams",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which political system divides powers between national and regional governments?",
@@ -3043,7 +2771,7 @@ const politics = [
         option3: "Confederation",
         option4: "Monarchy",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the term for a system where the head of state is also the head of government?",
@@ -3052,7 +2780,7 @@ const politics = [
         option3: "Monarchy",
         option4: "Dictatorship",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who wrote the Communist Manifesto?",
@@ -3061,7 +2789,7 @@ const politics = [
         option3: "John Maynard Keynes",
         option4: "Thomas Hobbes",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which international organization was founded after World War II to promote peace?",
@@ -3070,7 +2798,7 @@ const politics = [
         option3: "European Union",
         option4: "League of Nations",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What does 'separation of powers' mean?",
@@ -3079,7 +2807,7 @@ const politics = [
         option3: "Eliminating government power",
         option4: "Power to the people only",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is a veto?",
@@ -3088,7 +2816,7 @@ const politics = [
         option3: "A type of election",
         option4: "A political party",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which country is known for the political philosophy of Confucianism?",
@@ -3097,7 +2825,7 @@ const politics = [
         option3: "Korea",
         option4: "Vietnam",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who was the leader of the Soviet Union during World War II?",
@@ -3106,7 +2834,7 @@ const politics = [
         option3: "Nikita Khrushchev",
         option4: "Leon Trotsky",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the main role of the United Nations General Assembly?",
@@ -3115,7 +2843,7 @@ const politics = [
         option3: "To command peacekeeping forces",
         option4: "To manage global trade",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which political ideology advocates for a classless society?",
@@ -3124,7 +2852,7 @@ const politics = [
         option3: "Communism",
         option4: "Liberalism",
         ans: 3,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is a coalition government?",
@@ -3133,7 +2861,7 @@ const politics = [
         option3: "Military government",
         option4: "Monarchical government",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the primary function of a political party?",
@@ -3142,7 +2870,7 @@ const politics = [
         option3: "To run government offices",
         option4: "To make laws",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who was the first female Prime Minister of the United Kingdom?",
@@ -3151,7 +2879,7 @@ const politics = [
         option3: "Angela Merkel",
         option4: "Indira Gandhi",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which political theory emphasizes individual freedom and democracy?",
@@ -3160,7 +2888,7 @@ const politics = [
         option3: "Totalitarianism",
         option4: "Fascism",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is gerrymandering?",
@@ -3169,7 +2897,7 @@ const politics = [
         option3: "A form of campaign finance",
         option4: "A political protest",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the primary purpose of the United Nations Security Council?",
@@ -3178,7 +2906,7 @@ const politics = [
         option3: "To manage global economy",
         option4: "To organize sports events",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Who was the principal author of the United States Constitution?",
@@ -3187,7 +2915,7 @@ const politics = [
         option3: "James Madison",
         option4: "George Washington",
         ans: 3,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is democracy?",
@@ -3196,7 +2924,7 @@ const politics = [
         option3: "Government by a dictator",
         option4: "Government by the military",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "Which country is the birthplace of democracy?",
@@ -3205,7 +2933,7 @@ const politics = [
         option3: "London",
         option4: "Paris",
         ans: 2,
-        category: "Politics"
+        category: "politics"
     },
     {
         question: "What is the term for the right to vote?",
@@ -3214,7 +2942,7 @@ const politics = [
         option3: "Legislation",
         option4: "Filibuster",
         ans: 1,
-        category: "Politics"
+        category: "politics"
     }
 ];
 
@@ -3224,7 +2952,13 @@ export const data = [
     ...science,
     ...technology,
     ...math,
-    ...history
+    ...history,
+    ...english,
+    ...bangla,
+    ...geography,
+    ...economics,
+    ...sports,
+    ...politics
 ];
 
 
