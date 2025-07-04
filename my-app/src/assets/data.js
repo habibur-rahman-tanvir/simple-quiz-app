@@ -270,6 +270,189 @@ const science = [
         category: "science"
     }
 ];
+const moreScience = [
+    {
+        question: "What is the smallest unit of life?",
+        option1: "Atom",
+        option2: "Molecule",
+        option3: "Cell",
+        option4: "Tissue",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which organ is responsible for pumping blood throughout the body?",
+        option1: "Lungs",
+        option2: "Heart",
+        option3: "Liver",
+        option4: "Kidney",
+        ans: 2,
+        category: "science"
+    },
+    {
+        question: "What part of the brain controls balance and coordination?",
+        option1: "Cerebrum",
+        option2: "Cerebellum",
+        option3: "Brainstem",
+        option4: "Medulla",
+        ans: 2,
+        category: "science"
+    },
+    {
+        question: "What kind of energy is stored in food?",
+        option1: "Chemical energy",
+        option2: "Kinetic energy",
+        option3: "Thermal energy",
+        option4: "Nuclear energy",
+        ans: 1,
+        category: "science"
+    },
+    {
+        question: "Which of these is *not* a state of matter?",
+        option1: "Solid",
+        option2: "Liquid",
+        option3: "Plasma",
+        option4: "Element",
+        ans: 4,
+        category: "science"
+    },
+    {
+        question: "Which device is used to measure temperature?",
+        option1: "Thermometer",
+        option2: "Barometer",
+        option3: "Speedometer",
+        option4: "Altimeter",
+        ans: 1,
+        category: "science"
+    },
+    {
+        question: "What is the main function of red blood cells?",
+        option1: "Fighting infections",
+        option2: "Carrying oxygen",
+        option3: "Clotting blood",
+        option4: "Producing hormones",
+        ans: 2,
+        category: "science"
+    },
+    {
+        question: "Which part of the plant absorbs water and nutrients?",
+        option1: "Leaves",
+        option2: "Stem",
+        option3: "Roots",
+        option4: "Flower",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "What is Newton’s Third Law of Motion?",
+        option1: "Objects in motion stay in motion",
+        option2: "Force equals mass times acceleration",
+        option3: "Every action has an equal and opposite reaction",
+        option4: "An object will remain at rest unless acted upon",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which vitamin helps in blood clotting?",
+        option1: "Vitamin A",
+        option2: "Vitamin C",
+        option3: "Vitamin K",
+        option4: "Vitamin D",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which gas is essential for human respiration?",
+        option1: "Carbon dioxide",
+        option2: "Nitrogen",
+        option3: "Oxygen",
+        option4: "Hydrogen",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which animal lays eggs and also produces milk?",
+        option1: "Whale",
+        option2: "Bat",
+        option3: "Platypus",
+        option4: "Kangaroo",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which celestial body has the strongest gravity in our solar system?",
+        option1: "Earth",
+        option2: "Jupiter",
+        option3: "Sun",
+        option4: "Saturn",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which organ helps detoxify chemicals in the body?",
+        option1: "Liver",
+        option2: "Stomach",
+        option3: "Pancreas",
+        option4: "Lungs",
+        ans: 1,
+        category: "science"
+    },
+    {
+        question: "What is the unit of force?",
+        option1: "Joule",
+        option2: "Watt",
+        option3: "Newton",
+        option4: "Pascal",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which layer protects Earth from harmful UV rays?",
+        option1: "Ozone layer",
+        option2: "Troposphere",
+        option3: "Stratosphere",
+        option4: "Exosphere",
+        ans: 1,
+        category: "science"
+    },
+    {
+        question: "Which process do plants use to make food?",
+        option1: "Digestion",
+        option2: "Respiration",
+        option3: "Photosynthesis",
+        option4: "Fermentation",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "What causes tides on Earth?",
+        option1: "Wind",
+        option2: "Sunlight",
+        option3: "Moon's gravity",
+        option4: "Earth's rotation",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "Which blood type is known as the universal donor?",
+        option1: "A",
+        option2: "B",
+        option3: "O negative",
+        option4: "AB positive",
+        ans: 3,
+        category: "science"
+    },
+    {
+        question: "What is the function of chlorophyll in plants?",
+        option1: "Transport nutrients",
+        option2: "Absorb water",
+        option3: "Trap sunlight",
+        option4: "Support structure",
+        ans: 3,
+        category: "science"
+    }
+];
+
 const technology = [
     {
         question: "Who invented the telephone?",
@@ -551,6 +734,189 @@ const technology = [
         category: "technology"
     }
 ];
+const moreTechnology = [
+    {
+        question: "What is the main function of an operating system?",
+        option1: "Manage hardware and software",
+        option2: "Browse the internet",
+        option3: "Play games",
+        option4: "Design graphics",
+        ans: 1,
+        category: "technology"
+    },
+    {
+        question: "What is the purpose of a firewall in computing?",
+        option1: "To build websites",
+        option2: "To block spam emails",
+        option3: "To protect against unauthorized access",
+        option4: "To monitor screen time",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "Which of these is an example of cloud storage?",
+        option1: "Pen drive",
+        option2: "CD",
+        option3: "Google Drive",
+        option4: "Hard disk",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What does IoT stand for?",
+        option1: "Internet of Things",
+        option2: "Information over Time",
+        option3: "Internet of Technology",
+        option4: "Input-output Transmission",
+        ans: 1,
+        category: "technology"
+    },
+    {
+        question: "Which company developed the Android operating system?",
+        option1: "Microsoft",
+        option2: "Apple",
+        option3: "Google",
+        option4: "IBM",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What does SEO stand for in web development?",
+        option1: "Search Engine Optimization",
+        option2: "Secure Email Organization",
+        option3: "Server Engine Output",
+        option4: "Simple External Operation",
+        ans: 1,
+        category: "technology"
+    },
+    {
+        question: "Which of the following is *not* a social media platform?",
+        option1: "Facebook",
+        option2: "Twitter",
+        option3: "Instagram",
+        option4: "Photoshop",
+        ans: 4,
+        category: "technology"
+    },
+    {
+        question: "Which company developed ChatGPT?",
+        option1: "Google",
+        option2: "Meta",
+        option3: "OpenAI",
+        option4: "Microsoft",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What is the use of a QR code?",
+        option1: "To store audio",
+        option2: "To store visual data",
+        option3: "To store text and links scannable by devices",
+        option4: "To record video",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "Which programming language is mostly used for web design?",
+        option1: "C",
+        option2: "CSS",
+        option3: "Java",
+        option4: "Python",
+        ans: 2,
+        category: "technology"
+    },
+    {
+        question: "What is a domain name?",
+        option1: "A type of coding language",
+        option2: "A hardware component",
+        option3: "The address of a website",
+        option4: "A computer virus",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "Which storage has no moving parts and is faster?",
+        option1: "HDD",
+        option2: "CD",
+        option3: "SSD",
+        option4: "Floppy Disk",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What is phishing?",
+        option1: "Catching fish online",
+        option2: "A security threat using fake emails/websites",
+        option3: "A method of coding",
+        option4: "Image editing tool",
+        ans: 2,
+        category: "technology"
+    },
+    {
+        question: "Which key combination is used to copy text?",
+        option1: "Ctrl + X",
+        option2: "Ctrl + V",
+        option3: "Ctrl + C",
+        option4: "Ctrl + Z",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What does GPU stand for?",
+        option1: "General Processing Unit",
+        option2: "Graphics Processing Unit",
+        option3: "Global Processing Unit",
+        option4: "Gaming Performance Utility",
+        ans: 2,
+        category: "technology"
+    },
+    {
+        question: "What kind of device is a smartwatch?",
+        option1: "Input device",
+        option2: "Storage device",
+        option3: "Wearable technology",
+        option4: "Output device",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "Which app is used for virtual meetings?",
+        option1: "Google Maps",
+        option2: "Zoom",
+        option3: "Snapchat",
+        option4: "Instagram",
+        ans: 2,
+        category: "technology"
+    },
+    {
+        question: "Which language is mostly used for data analysis?",
+        option1: "Python",
+        option2: "HTML",
+        option3: "CSS",
+        option4: "PHP",
+        ans: 1,
+        category: "technology"
+    },
+    {
+        question: "Which of these is a type of cyber attack?",
+        option1: "Firewall",
+        option2: "Antivirus",
+        option3: "DDoS",
+        option4: "Router",
+        ans: 3,
+        category: "technology"
+    },
+    {
+        question: "What is GitHub mainly used for?",
+        option1: "Streaming videos",
+        option2: "Buying online",
+        option3: "Hosting code repositories",
+        option4: "Editing photos",
+        ans: 3,
+        category: "technology"
+    }
+];
+
 const english = [
     {
         question: "What is the antonym of 'Hot'?",
@@ -823,6 +1189,189 @@ const english = [
         category: "english"
     }
 ];
+const moreEnglish = [
+    {
+        question: "What is the past tense of 'write'?",
+        option1: "Wrote",
+        option2: "Written",
+        option3: "Write",
+        option4: "Writed",
+        ans: 1,
+        category: "english"
+    },
+    {
+        question: "Which of these is a verb?",
+        option1: "Run",
+        option2: "Quick",
+        option3: "Blue",
+        option4: "Tall",
+        ans: 1,
+        category: "english"
+    },
+    {
+        question: "What type of sentence is this: 'Please sit down.'?",
+        option1: "Interrogative",
+        option2: "Declarative",
+        option3: "Imperative",
+        option4: "Exclamatory",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Identify the subject: 'The dog barked loudly.'",
+        option1: "The",
+        option2: "Dog",
+        option3: "Barked",
+        option4: "Loudly",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Which is a possessive pronoun?",
+        option1: "Me",
+        option2: "They",
+        option3: "His",
+        option4: "He",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Choose the correct sentence:",
+        option1: "I has a pen.",
+        option2: "I am have a pen.",
+        option3: "I have a pen.",
+        option4: "I haves a pen.",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Which of these words is an antonym of 'Begin'?",
+        option1: "Start",
+        option2: "Open",
+        option3: "Close",
+        option4: "End",
+        ans: 4,
+        category: "english"
+    },
+    {
+        question: "What is the superlative form of 'Tall'?",
+        option1: "Taller",
+        option2: "Tallest",
+        option3: "Tallness",
+        option4: "Most Tall",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Which sentence shows past continuous tense?",
+        option1: "She is eating.",
+        option2: "She was eating.",
+        option3: "She eats.",
+        option4: "She has eaten.",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Choose the correct spelling:",
+        option1: "Acomodation",
+        option2: "Accomodation",
+        option3: "Accommodation",
+        option4: "Acommadation",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "What type of word is 'Happiness'?",
+        option1: "Verb",
+        option2: "Noun",
+        option3: "Adjective",
+        option4: "Adverb",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Fill in the blank: 'I saw ___ elephant at the zoo.'",
+        option1: "a",
+        option2: "an",
+        option3: "the",
+        option4: "none",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Which of the following is an adverb of manner?",
+        option1: "Very",
+        option2: "Slowly",
+        option3: "Always",
+        option4: "There",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Which sentence uses the present perfect tense?",
+        option1: "She eats breakfast.",
+        option2: "She ate breakfast.",
+        option3: "She has eaten breakfast.",
+        option4: "She is eating breakfast.",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "What is the opposite of 'Strong'?",
+        option1: "Tall",
+        option2: "Weak",
+        option3: "Short",
+        option4: "Heavy",
+        ans: 2,
+        category: "english"
+    },
+    {
+        question: "Identify the preposition: 'The cat is under the table.'",
+        option1: "Cat",
+        option2: "Is",
+        option3: "Under",
+        option4: "Table",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Which of these words is an abstract noun?",
+        option1: "Book",
+        option2: "Chair",
+        option3: "Freedom",
+        option4: "Tree",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Choose the correct sentence:",
+        option1: "Does he likes tea?",
+        option2: "Do he like tea?",
+        option3: "Does he like tea?",
+        option4: "Does he liking tea?",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Which is an example of an exclamatory sentence?",
+        option1: "Can you help me?",
+        option2: "She is my friend.",
+        option3: "Wow! That's amazing!",
+        option4: "I will go now.",
+        ans: 3,
+        category: "english"
+    },
+    {
+        question: "Which word is a homophone of 'See'?",
+        option1: "Sea",
+        option2: "Say",
+        option3: "Set",
+        option4: "Sew",
+        ans: 1,
+        category: "english"
+    }
+];
+
 const bangla = [
     {
         question: "Who wrote 'Amar Shonar Bangla'?",
@@ -1086,6 +1635,189 @@ const bangla = [
         category: "bangla"
     }
 ];
+const moreBangla = [
+    {
+        question: "Who is known as 'Bangalir Batsman'?",
+        option1: "Mashrafe Mortaza",
+        option2: "Tamim Iqbal",
+        option3: "Shakib Al Hasan",
+        option4: "Mushfiqur Rahim",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Milk'?",
+        option1: "Pani",
+        option2: "Dudh",
+        option3: "Ranna",
+        option4: "Agun",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "Who is the national poet of Bangladesh?",
+        option1: "Jasimuddin",
+        option2: "Kazi Nazrul Islam",
+        option3: "Rabindranath Tagore",
+        option4: "Sukanta Bhattacharya",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali term for 'Teacher'?",
+        option1: "Chhatro",
+        option2: "Shikkhok",
+        option3: "Bondhu",
+        option4: "Lekhok",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What does 'Thik ache' mean?",
+        option1: "No",
+        option2: "Okay",
+        option3: "Thanks",
+        option4: "Bad",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Bird'?",
+        option1: "Pakhir Dana",
+        option2: "Pakhi",
+        option3: "Gachh",
+        option4: "Batash",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "Which day is 'Shoptaho'r prothom din'?",
+        option1: "Friday",
+        option2: "Saturday",
+        option3: "Sunday",
+        option4: "Monday",
+        ans: 3,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Chair'?",
+        option1: "Table",
+        option2: "Kursi",
+        option3: "Boi",
+        option4: "Khata",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "Which is a Bengali consonant (byanjanborno)?",
+        option1: "অ",
+        option2: "ই",
+        option3: "ক",
+        option4: "ঊ",
+        ans: 3,
+        category: "bangla"
+    },
+    {
+        question: "What does 'Bhalo' mean?",
+        option1: "Good",
+        option2: "Bad",
+        option3: "Hot",
+        option4: "Cold",
+        ans: 1,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali name for 'Pen'?",
+        option1: "Khata",
+        option2: "Kolom",
+        option3: "Boi",
+        option4: "Pata",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Sleep'?",
+        option1: "Ghum",
+        option2: "Ranna",
+        option3: "Dekha",
+        option4: "Jaowa",
+        ans: 1,
+        category: "bangla"
+    },
+    {
+        question: "What is the meaning of 'Khida peyechhe'?",
+        option1: "I am sleepy",
+        option2: "I am angry",
+        option3: "I am hungry",
+        option4: "I am busy",
+        ans: 3,
+        category: "bangla"
+    },
+    {
+        question: "Which is a famous Bengali folk song genre?",
+        option1: "Rock",
+        option2: "Baul",
+        option3: "Rap",
+        option4: "Classical",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Boy'?",
+        option1: "Meye",
+        option2: "Chele",
+        option3: "Ma",
+        option4: "Baba",
+        ans: 2,
+        category: "bangla"
+    },
+    {
+        question: "What is 'Shikkha' in English?",
+        option1: "Light",
+        option2: "Knowledge",
+        option3: "Education",
+        option4: "Respect",
+        ans: 3,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Work'?",
+        option1: "Kaj",
+        option2: "Ghum",
+        option3: "Thanda",
+        option4: "Agun",
+        ans: 1,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Home'?",
+        option1: "Basha",
+        option2: "Jomi",
+        option3: "Nodi",
+        option4: "Gachh",
+        ans: 1,
+        category: "bangla"
+    },
+    {
+        question: "Which poet wrote 'Shesher Kobita'?",
+        option1: "Sukanta Bhattacharya",
+        option2: "Kazi Nazrul",
+        option3: "Rabindranath Tagore",
+        option4: "Jibanananda Das",
+        ans: 3,
+        category: "bangla"
+    },
+    {
+        question: "What is the Bengali word for 'Morning'?",
+        option1: "Ratri",
+        option2: "Dupur",
+        option3: "Shokal",
+        option4: "Bikel",
+        ans: 3,
+        category: "bangla"
+    }
+];
+
 const general = [
     {
         question: "What is the capital of Bangladesh?",
@@ -1358,278 +2090,554 @@ const general = [
         category: "general"
     }
 ];
+const moreGeneral = [
+    {
+        question: "Which country is known as the Land of the Midnight Sun?",
+        option1: "Norway",
+        option2: "Sweden",
+        option3: "Finland",
+        option4: "Iceland",
+        ans: 1,
+        category: "general"
+    },
+    {
+        question: "What is the chemical symbol for water?",
+        option1: "O2",
+        option2: "H2O",
+        option3: "CO2",
+        option4: "NaCl",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Which planet is known as the Red Planet?",
+        option1: "Venus",
+        option2: "Mars",
+        option3: "Jupiter",
+        option4: "Saturn",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "What is the largest mammal in the world?",
+        option1: "Elephant",
+        option2: "Blue Whale",
+        option3: "Giraffe",
+        option4: "Hippopotamus",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Who invented the light bulb?",
+        option1: "Nikola Tesla",
+        option2: "Thomas Edison",
+        option3: "Alexander Graham Bell",
+        option4: "Albert Einstein",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "What is the boiling point of water at sea level?",
+        option1: "90°C",
+        option2: "100°C",
+        option3: "110°C",
+        option4: "120°C",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Which language is primarily spoken in Brazil?",
+        option1: "Spanish",
+        option2: "Portuguese",
+        option3: "English",
+        option4: "French",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "How many bones are there in the adult human body?",
+        option1: "206",
+        option2: "205",
+        option3: "201",
+        option4: "210",
+        ans: 1,
+        category: "general"
+    },
+    {
+        question: "Who was the first man to walk on the moon?",
+        option1: "Buzz Aldrin",
+        option2: "Yuri Gagarin",
+        option3: "Neil Armstrong",
+        option4: "John Glenn",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "Which element has the atomic number 1?",
+        option1: "Helium",
+        option2: "Hydrogen",
+        option3: "Oxygen",
+        option4: "Carbon",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Which city is known as the Big Apple?",
+        option1: "Los Angeles",
+        option2: "Chicago",
+        option3: "New York",
+        option4: "San Francisco",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "What is the hardest natural substance on Earth?",
+        option1: "Gold",
+        option2: "Iron",
+        option3: "Diamond",
+        option4: "Silver",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "Which instrument measures atmospheric pressure?",
+        option1: "Thermometer",
+        option2: "Barometer",
+        option3: "Hygrometer",
+        option4: "Anemometer",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "What is the main gas found in the air we breathe?",
+        option1: "Oxygen",
+        option2: "Carbon dioxide",
+        option3: "Nitrogen",
+        option4: "Hydrogen",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "Which country gifted the Statue of Liberty to the USA?",
+        option1: "France",
+        option2: "England",
+        option3: "Germany",
+        option4: "Italy",
+        ans: 1,
+        category: "general"
+    },
+    {
+        question: "What is the capital city of Australia?",
+        option1: "Sydney",
+        option2: "Melbourne",
+        option3: "Canberra",
+        option4: "Brisbane",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "How many teeth does an adult human have?",
+        option1: "28",
+        option2: "30",
+        option3: "32",
+        option4: "34",
+        ans: 3,
+        category: "general"
+    },
+    {
+        question: "Who painted the Mona Lisa?",
+        option1: "Michelangelo",
+        option2: "Leonardo da Vinci",
+        option3: "Raphael",
+        option4: "Vincent van Gogh",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Which gas do plants absorb from the atmosphere?",
+        option1: "Oxygen",
+        option2: "Carbon dioxide",
+        option3: "Nitrogen",
+        option4: "Helium",
+        ans: 2,
+        category: "general"
+    },
+    {
+        question: "Which continent is known as the Dark Continent?",
+        option1: "Asia",
+        option2: "Africa",
+        option3: "Europe",
+        option4: "South America",
+        ans: 2,
+        category: "general"
+    }
+];
+
 const math = [
     {
-        question: "What is 5 + 3?",
-        option1: "7",
-        option2: "8",
-        option3: "9",
-        option4: "6",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "What is 12 - 4?",
-        option1: "9",
-        option2: "6",
-        option3: "8",
-        option4: "7",
-        ans: 3,
-        category: "math"
-    },
-    {
-        question: "What is 6 × 7?",
-        option1: "42",
-        option2: "36",
-        option3: "48",
-        option4: "40",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 20 ÷ 5?",
-        option1: "4",
-        option2: "3",
-        option3: "5",
-        option4: "6",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is the square root of 49?",
-        option1: "8",
-        option2: "6",
-        option3: "7",
-        option4: "9",
-        ans: 3,
-        category: "math"
-    },
-    {
-        question: "What is 10% of 100?",
-        option1: "5",
-        option2: "10",
-        option3: "15",
-        option4: "20",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "What is 9 × 9?",
-        option1: "81",
-        option2: "72",
-        option3: "90",
-        option4: "99",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 100 - 25?",
-        option1: "75",
-        option2: "65",
-        option3: "85",
-        option4: "80",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 15 + 27?",
-        option1: "42",
-        option2: "41",
-        option3: "43",
-        option4: "40",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 8 × 8?",
-        option1: "56",
-        option2: "64",
-        option3: "72",
-        option4: "60",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "What is 121 ÷ 11?",
-        option1: "9",
-        option2: "10",
-        option3: "11",
-        option4: "12",
-        ans: 3,
-        category: "math"
-    },
-    {
-        question: "What is the value of π (approximately)?",
-        option1: "3.14",
-        option2: "2.17",
-        option3: "4.13",
-        option4: "1.41",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 2³?",
-        option1: "8",
-        option2: "6",
-        option3: "9",
-        option4: "12",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 1000 ÷ 10?",
+        question: "What is the value of 2⁵?",
         option1: "10",
-        option2: "100",
-        option3: "110",
-        option4: "90",
+        option2: "25",
+        option3: "32",
+        option4: "64",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the derivative of x²?",
+        option1: "x",
+        option2: "2x",
+        option3: "x²",
+        option4: "2",
         ans: 2,
         category: "math"
     },
     {
-        question: "What is 25 × 4?",
-        option1: "100",
-        option2: "75",
-        option3: "125",
-        option4: "90",
+        question: "What is the area of a circle with radius 7?",
+        option1: "49π",
+        option2: "14π",
+        option3: "21π",
+        option4: "28π",
         ans: 1,
         category: "math"
     },
     {
-        question: "What is 3 + 6 × 2?",
-        option1: "18",
-        option2: "15",
-        option3: "12",
-        option4: "21",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "What is 144 ÷ 12?",
+        question: "Solve for x: 2x + 5 = 15",
         option1: "10",
-        option2: "12",
-        option3: "14",
-        option4: "11",
+        option2: "5",
+        option3: "7.5",
+        option4: "None",
         ans: 2,
         category: "math"
     },
     {
-        question: "What is 2 + 2 × 2?",
-        option1: "6",
-        option2: "8",
-        option3: "4",
-        option4: "10",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is the square of 12?",
-        option1: "124",
-        option2: "132",
-        option3: "144",
-        option4: "156",
+        question: "What is sin(90°)?",
+        option1: "0",
+        option2: "0.5",
+        option3: "1",
+        option4: "Undefined",
         ans: 3,
         category: "math"
     },
     {
-        question: "Which number is a prime number?",
-        option1: "9",
-        option2: "11",
-        option3: "15",
-        option4: "21",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "What is 7²?",
-        option1: "49",
-        option2: "42",
-        option3: "56",
-        option4: "63",
-        ans: 1,
-        category: "math"
-    },
-    {
-        question: "What is 50% of 200?",
-        option1: "50",
-        option2: "75",
-        option3: "100",
-        option4: "125",
-        ans: 3,
-        category: "math"
-    },
-    {
-        question: "What is 10²?",
-        option1: "20",
-        option2: "100",
-        option3: "10",
-        option4: "110",
-        ans: 2,
-        category: "math"
-    },
-    {
-        question: "Which number is even?",
+        question: "If f(x) = x², what is f(3)?",
         option1: "3",
-        option2: "7",
-        option3: "10",
-        option4: "9",
+        option2: "6",
+        option3: "9",
+        option4: "12",
         ans: 3,
         category: "math"
     },
     {
-        question: "What is 30 + 70?",
-        option1: "90",
-        option2: "100",
-        option3: "110",
+        question: "What is 7! (factorial of 7)?",
+        option1: "720",
+        option2: "5040",
+        option3: "40320",
         option4: "120",
         ans: 2,
         category: "math"
     },
     {
-        question: "What is 0 × 100?",
-        option1: "100",
-        option2: "1",
-        option3: "0",
+        question: "What is the slope of y = 3x + 4?",
+        option1: "3",
+        option2: "4",
+        option3: "-3",
+        option4: "1",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is the value of log₁₀(100)?",
+        option1: "1",
+        option2: "0",
+        option3: "2",
         option4: "10",
         ans: 3,
         category: "math"
     },
     {
-        question: "What is 100 + 200?",
-        option1: "250",
-        option2: "275",
-        option3: "300",
-        option4: "325",
-        ans: 3,
-        category: "math"
-    },
-    {
-        question: "What is 81 ÷ 9?",
-        option1: "8",
-        option2: "9",
-        option3: "10",
-        option4: "7",
+        question: "Solve: (3² + 4²)",
+        option1: "12",
+        option2: "25",
+        option3: "20",
+        option4: "18",
         ans: 2,
         category: "math"
     },
     {
-        question: "Which number is divisible by 5?",
-        option1: "23",
-        option2: "42",
-        option3: "35",
-        option4: "37",
+        question: "What is the solution of |x| = 5?",
+        option1: "5",
+        option2: "-5",
+        option3: "5 and -5",
+        option4: "0",
         ans: 3,
         category: "math"
     },
     {
-        question: "What is 60 - 15?",
-        option1: "45",
-        option2: "40",
-        option3: "50",
-        option4: "35",
+        question: "What is the median of [3, 7, 9, 15, 20]?",
+        option1: "9",
+        option2: "10",
+        option3: "7",
+        option4: "15",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "Find the next in the pattern: 2, 4, 8, 16, __",
+        option1: "18",
+        option2: "24",
+        option3: "30",
+        option4: "32",
+        ans: 4,
+        category: "math"
+    },
+    {
+        question: "Which of the following is an irrational number?",
+        option1: "22/7",
+        option2: "3.14",
+        option3: "√2",
+        option4: "1.5",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the sum of interior angles of a hexagon?",
+        option1: "540°",
+        option2: "720°",
+        option3: "900°",
+        option4: "1080°",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is the volume of a cube with side 5?",
+        option1: "25",
+        option2: "75",
+        option3: "125",
+        option4: "150",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "If x² = 49, then x = ?",
+        option1: "7",
+        option2: "-7",
+        option3: "±7",
+        option4: "14",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the value of tan(45°)?",
+        option1: "1",
+        option2: "0",
+        option3: "√2",
+        option4: "∞",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 2(x + 3) = 10?",
+        option1: "x = 4",
+        option2: "x = 5",
+        option3: "x = 3",
+        option4: "x = 2",
+        ans: 4,
+        category: "math"
+    },
+    {
+        question: "What is the perimeter of a square with side 8?",
+        option1: "32",
+        option2: "16",
+        option3: "64",
+        option4: "24",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 3³ × 2²?",
+        option1: "36",
+        option2: "54",
+        option3: "72",
+        option4: "108",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "If x = 2 and y = 3, what is xy + x?",
+        option1: "5",
+        option2: "6",
+        option3: "8",
+        option4: "9",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the GCD of 18 and 24?",
+        option1: "3",
+        option2: "6",
+        option3: "12",
+        option4: "9",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is the LCM of 4 and 5?",
+        option1: "10",
+        option2: "15",
+        option3: "20",
+        option4: "25",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the value of √81?",
+        option1: "7",
+        option2: "9",
+        option3: "8",
+        option4: "6",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "Which formula is used for the area of triangle?",
+        option1: "½ × base × height",
+        option2: "base × height",
+        option3: "side²",
+        option4: "πr²",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is the cube root of 27?",
+        option1: "9",
+        option2: "6",
+        option3: "3",
+        option4: "4",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the mode of [2, 3, 3, 4, 5]?",
+        option1: "2",
+        option2: "3",
+        option3: "4",
+        option4: "5",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is the hypotenuse of a right triangle with base = 6 and height = 8?",
+        option1: "10",
+        option2: "14",
+        option3: "12",
+        option4: "15",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is the value of x if 4x = 2x + 10?",
+        option1: "2",
+        option2: "3",
+        option3: "4",
+        option4: "5",
+        ans: 4,
+        category: "math"
+    }
+];
+const moreMath = [
+    {
+        question: "What is the value of x in the equation: 2x + 3 = 11?",
+        option1: "3",
+        option2: "4",
+        option3: "5",
+        option4: "6",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "Simplify: (3² + 4²)",
+        option1: "25",
+        option2: "49",
+        option3: "16",
+        option4: "12",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 25% of 240?",
+        option1: "50",
+        option2: "55",
+        option3: "60",
+        option4: "65",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the value of 2³ × 3²?",
+        option1: "36",
+        option2: "72",
+        option3: "54",
+        option4: "48",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "If the area of a square is 64 cm², what is the length of one side?",
+        option1: "6 cm",
+        option2: "7 cm",
+        option3: "8 cm",
+        option4: "9 cm",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "What is the cube root of 125?",
+        option1: "5",
+        option2: "25",
+        option3: "3",
+        option4: "4",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "Convert 0.75 to a fraction.",
+        option1: "1/3",
+        option2: "3/4",
+        option3: "2/5",
+        option4: "4/5",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+        option1: "26 cm",
+        option2: "40 cm",
+        option3: "30 cm",
+        option4: "18 cm",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "If 5x = 20, what is the value of x + 3?",
+        option1: "7",
+        option2: "6",
+        option3: "5",
+        option4: "4",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 3/4 of 64?",
+        option1: "48",
+        option2: "36",
+        option3: "52",
+        option4: "40",
         ans: 1,
         category: "math"
     }
 ];
+
 const history = [
     {
         question: "Who was the first President of the United States?",
@@ -1893,6 +2901,189 @@ const history = [
         category: "history"
     }
 ];
+const moreHistory = [
+    {
+        question: "Which ancient wonder was located in the city of Alexandria?",
+        option1: "Hanging Gardens of Babylon",
+        option2: "Statue of Zeus",
+        option3: "Pharos Lighthouse",
+        option4: "Temple of Artemis",
+        ans: 3,
+        category: "history"
+    },
+    {
+        question: "Who was the English queen during the defeat of the Spanish Armada (1588)?",
+        option1: "Mary I",
+        option2: "Elizabeth I",
+        option3: "Victoria",
+        option4: "Anne",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Which country launched the first artificial satellite, Sputnik 1?",
+        option1: "USA",
+        option2: "Germany",
+        option3: "Soviet Union",
+        option4: "China",
+        ans: 3,
+        category: "history"
+    },
+    {
+        question: "Which document began in 1215 limiting the power of the English king?",
+        option1: "Magna Carta",
+        option2: "Bill of Rights",
+        option3: "Declaration of Independence",
+        option4: "Treaty of Versailles",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "Who was the leader of Nazi Germany during WWII?",
+        option1: "Adolf Hitler",
+        option2: "Joseph Stalin",
+        option3: "Winston Churchill",
+        option4: "Benito Mussolini",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "Which empire built Machu Picchu?",
+        option1: "Aztec",
+        option2: "Inca",
+        option3: "Maya",
+        option4: "Olmec",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Who wrote the Communist Manifesto?",
+        option1: "Karl Marx & Friedrich Engels",
+        option2: "Vladimir Lenin",
+        option3: "Mao Zedong",
+        option4: "Adam Smith",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "When did India gain independence from Britain?",
+        option1: "1947",
+        option2: "1950",
+        option3: "1945",
+        option4: "1952",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "Which war ended with the Treaty of Versailles?",
+        option1: "World War II",
+        option2: "World War I",
+        option3: "American Civil War",
+        option4: "Napoleonic Wars",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Who was the first female Prime Minister in the world?",
+        option1: "Golda Meir",
+        option2: "Indira Gandhi",
+        option3: "Margaret Thatcher",
+        option4: "Sirimavo Bandaranaike",
+        ans: 4,
+        category: "history"
+    },
+    {
+        question: "What empire was ruled by Genghis Khan?",
+        option1: "Mongol Empire",
+        option2: "Ottoman Empire",
+        option3: "Roman Empire",
+        option4: "Persian Empire",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "When did the Berlin Wall get erected?",
+        option1: "1949",
+        option2: "1961",
+        option3: "1989",
+        option4: "1953",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Who led India's non-violent civil disobedience movement?",
+        option1: "Jawaharlal Nehru",
+        option2: "Mahatma Gandhi",
+        option3: "Subhas Bose",
+        option4: "Sardar Patel",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Which explorer circumnavigated the globe first?",
+        option1: "Christopher Columbus",
+        option2: "Ferdinand Magellan",
+        option3: "Vasco da Gama",
+        option4: "James Cook",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "The Renaissance began in which country?",
+        option1: "France",
+        option2: "Italy",
+        option3: "England",
+        option4: "Germany",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "When was the Russian Revolution that led to the USSR?",
+        option1: "1917",
+        option2: "1905",
+        option3: "1922",
+        option4: "1939",
+        ans: 1,
+        category: "history"
+    },
+    {
+        question: "Who was the founder of the Mongol Empire?",
+        option1: "Kublai Khan",
+        option2: "Ogedei Khan",
+        option3: "Genghis Khan",
+        option4: "Tamerlane",
+        ans: 3,
+        category: "history"
+    },
+    {
+        question: "Which ship sank after hitting an iceberg in 1912?",
+        option1: "Britannic",
+        option2: "Lusitania",
+        option3: "Titanic",
+        option4: "Olympic",
+        ans: 3,
+        category: "history"
+    },
+    {
+        question: "What ancient civilization used cuneiform writing?",
+        option1: "Egyptians",
+        option2: "Babylonians",
+        option3: "Greeks",
+        option4: "Romans",
+        ans: 2,
+        category: "history"
+    },
+    {
+        question: "Who was the first emperor of Rome?",
+        option1: "Julius Caesar",
+        option2: "Augustus",
+        option3: "Nero",
+        option4: "Caligula",
+        ans: 2,
+        category: "history"
+    }
+];
+
 const geography = [
     {
         question: "What is the largest continent by area?",
@@ -2165,6 +3356,189 @@ const geography = [
         category: "geography"
     }
 ];
+const moreGeography = [
+    {
+        question: "Which line divides the Earth into the Northern and Southern Hemispheres?",
+        option1: "Prime Meridian",
+        option2: "Equator",
+        option3: "Tropic of Cancer",
+        option4: "Tropic of Capricorn",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "Which continent has no permanent human population?",
+        option1: "Africa",
+        option2: "Asia",
+        option3: "Antarctica",
+        option4: "Australia",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which country has the most time zones?",
+        option1: "USA",
+        option2: "France",
+        option3: "Russia",
+        option4: "China",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "What is the longest mountain range in the world?",
+        option1: "Andes",
+        option2: "Himalayas",
+        option3: "Rockies",
+        option4: "Alps",
+        ans: 1,
+        category: "geography"
+    },
+    {
+        question: "What is the capital of Norway?",
+        option1: "Oslo",
+        option2: "Stockholm",
+        option3: "Copenhagen",
+        option4: "Helsinki",
+        ans: 1,
+        category: "geography"
+    },
+    {
+        question: "Which African lake is the largest by area?",
+        option1: "Lake Victoria",
+        option2: "Lake Tanganyika",
+        option3: "Lake Malawi",
+        option4: "Lake Chad",
+        ans: 1,
+        category: "geography"
+    },
+    {
+        question: "What is the capital of Egypt?",
+        option1: "Cairo",
+        option2: "Alexandria",
+        option3: "Luxor",
+        option4: "Giza",
+        ans: 1,
+        category: "geography"
+    },
+    {
+        question: "Which European country is famous for its fjords?",
+        option1: "Sweden",
+        option2: "Iceland",
+        option3: "Norway",
+        option4: "Finland",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which sea separates Europe and Africa?",
+        option1: "Arabian Sea",
+        option2: "Red Sea",
+        option3: "Mediterranean Sea",
+        option4: "Caspian Sea",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which U.S. state has the most active volcanoes?",
+        option1: "California",
+        option2: "Washington",
+        option3: "Hawaii",
+        option4: "Alaska",
+        ans: 4,
+        category: "geography"
+    },
+    {
+        question: "What is the capital city of Argentina?",
+        option1: "Lima",
+        option2: "Santiago",
+        option3: "Buenos Aires",
+        option4: "Montevideo",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which river is sacred to Hindus?",
+        option1: "Indus",
+        option2: "Ganges",
+        option3: "Yamuna",
+        option4: "Godavari",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "Which Asian country is an archipelago?",
+        option1: "Nepal",
+        option2: "Pakistan",
+        option3: "Japan",
+        option4: "China",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which island nation lies southeast of India?",
+        option1: "Maldives",
+        option2: "Sri Lanka",
+        option3: "Mauritius",
+        option4: "Madagascar",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "Which country borders both the Atlantic and Pacific Oceans?",
+        option1: "Argentina",
+        option2: "Chile",
+        option3: "USA",
+        option4: "Mexico",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "What is the capital of Nigeria?",
+        option1: "Lagos",
+        option2: "Kano",
+        option3: "Abuja",
+        option4: "Ibadan",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which region is known as the 'Roof of the World'?",
+        option1: "Rocky Mountains",
+        option2: "Tibetan Plateau",
+        option3: "Andes",
+        option4: "Alps",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "Which sea has no coastline?",
+        option1: "Baltic Sea",
+        option2: "Aral Sea",
+        option3: "Sargasso Sea",
+        option4: "Black Sea",
+        ans: 3,
+        category: "geography"
+    },
+    {
+        question: "Which desert is located in Mongolia and China?",
+        option1: "Sahara",
+        option2: "Gobi",
+        option3: "Kalahari",
+        option4: "Thar",
+        ans: 2,
+        category: "geography"
+    },
+    {
+        question: "Which country shares the longest land border with India?",
+        option1: "China",
+        option2: "Pakistan",
+        option3: "Bangladesh",
+        option4: "Nepal",
+        ans: 3,
+        category: "geography"
+    }
+];
+
 const economics = [
     {
         question: "What is GDP an abbreviation for?",
@@ -2428,6 +3802,189 @@ const economics = [
         category: "economics"
     }
 ];
+const moreEconomics = [
+    {
+        question: "What is 'elasticity' in economics?",
+        option1: "Measure of demand sensitivity to price changes",
+        option2: "Government tax rate",
+        option3: "Amount of goods produced",
+        option4: "Interest rate",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'marginal cost'?",
+        option1: "Cost of producing one additional unit",
+        option2: "Total production cost",
+        option3: "Fixed cost",
+        option4: "Cost of marketing",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "Who developed the theory of comparative advantage?",
+        option1: "Adam Smith",
+        option2: "David Ricardo",
+        option3: "John Maynard Keynes",
+        option4: "Karl Marx",
+        ans: 2,
+        category: "economics"
+    },
+    {
+        question: "What does 'fiscal policy' involve?",
+        option1: "Government spending and taxation",
+        option2: "Control of money supply",
+        option3: "Regulation of banks",
+        option4: "Setting interest rates",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'opportunity cost'?",
+        option1: "Cost of choosing one option over another",
+        option2: "Cost of borrowing money",
+        option3: "Cost of goods produced",
+        option4: "Government subsidy",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'monetary policy'?",
+        option1: "Central bank actions to control money supply",
+        option2: "Government decisions on taxes",
+        option3: "Trade agreements between countries",
+        option4: "Labor market regulations",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is a 'trade deficit'?",
+        option1: "When imports exceed exports",
+        option2: "When exports exceed imports",
+        option3: "When government spending exceeds income",
+        option4: "When income exceeds spending",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What does 'liquidity' mean in economics?",
+        option1: "Ease of converting assets to cash",
+        option2: "Amount of debt a company has",
+        option3: "Government revenue",
+        option4: "Price level of goods",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is the 'invisible hand' concept?",
+        option1: "Self-regulating nature of markets",
+        option2: "Government intervention in economy",
+        option3: "Tax policy",
+        option4: "Labor union power",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What does 'hyperinflation' mean?",
+        option1: "Extremely rapid inflation",
+        option2: "Slow economic growth",
+        option3: "Decline in prices",
+        option4: "Stable currency value",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'price ceiling'?",
+        option1: "Maximum legal price for a good",
+        option2: "Minimum wage set by government",
+        option3: "Price at which supply equals demand",
+        option4: "Average market price",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'GDP growth rate'?",
+        option1: "Rate at which a country's GDP increases",
+        option2: "Rate of inflation",
+        option3: "Government spending rate",
+        option4: "Interest rate",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'market equilibrium'?",
+        option1: "Where supply equals demand",
+        option2: "When prices drop",
+        option3: "When government sets prices",
+        option4: "When production exceeds demand",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'human capital'?",
+        option1: "Skills and knowledge of workers",
+        option2: "Money invested in machines",
+        option3: "Natural resources",
+        option4: "Physical buildings",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'balance of trade'?",
+        option1: "Difference between exports and imports",
+        option2: "Government budget balance",
+        option3: "Money supply control",
+        option4: "Interest rate adjustments",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'demand-pull inflation'?",
+        option1: "Inflation caused by increased demand",
+        option2: "Inflation caused by increased costs",
+        option3: "Price decrease",
+        option4: "Stable prices",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'public goods'?",
+        option1: "Goods non-excludable and non-rivalrous",
+        option2: "Goods sold privately",
+        option3: "Goods only for government use",
+        option4: "Goods produced by private sector",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What does 'capital gain' mean?",
+        option1: "Profit from sale of assets",
+        option2: "Loss from investments",
+        option3: "Government tax",
+        option4: "Cost of capital",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'stagflation'?",
+        option1: "High inflation with stagnant growth",
+        option2: "Rapid economic growth",
+        option3: "Deflation",
+        option4: "High unemployment only",
+        ans: 1,
+        category: "economics"
+    },
+    {
+        question: "What is 'diminishing returns'?",
+        option1: "Decrease in output after a certain input level",
+        option2: "Increase in production with more input",
+        option3: "Stable production level",
+        option4: "Constant returns to scale",
+        ans: 1,
+        category: "economics"
+    }
+];
+
 const sports = [
     {
         question: "Which country won the first FIFA World Cup?",
@@ -2682,6 +4239,189 @@ const sports = [
         category: "sports"
     }
 ];
+const moreSports = [
+    {
+        question: "Which country won the 2020 UEFA European Championship (Euro 2020)?",
+        option1: "France",
+        option2: "Italy",
+        option3: "Spain",
+        option4: "England",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "In which sport is the Davis Cup contested?",
+        option1: "Badminton",
+        option2: "Tennis",
+        option3: "Cricket",
+        option4: "Football",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "Which city hosted the 2008 Summer Olympics?",
+        option1: "Athens",
+        option2: "Beijing",
+        option3: "London",
+        option4: "Sydney",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "How many minutes are there in a standard professional football (soccer) match?",
+        option1: "90",
+        option2: "60",
+        option3: "80",
+        option4: "100",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Which country won the Cricket World Cup in 2019?",
+        option1: "India",
+        option2: "Australia",
+        option3: "England",
+        option4: "New Zealand",
+        ans: 3,
+        category: "sports"
+    },
+    {
+        question: "Which sport is known as the 'Gentleman's Game'?",
+        option1: "Cricket",
+        option2: "Tennis",
+        option3: "Golf",
+        option4: "Rugby",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Who has won the most Grand Slam titles in men's tennis?",
+        option1: "Roger Federer",
+        option2: "Rafael Nadal",
+        option3: "Novak Djokovic",
+        option4: "Pete Sampras",
+        ans: 3,
+        category: "sports"
+    },
+    {
+        question: "What is the maximum score possible in a single frame of ten-pin bowling?",
+        option1: "30",
+        option2: "10",
+        option3: "50",
+        option4: "20",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Which country is famous for the sport of curling?",
+        option1: "Canada",
+        option2: "Norway",
+        option3: "Sweden",
+        option4: "Scotland",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Which boxer was known as 'The Greatest' and 'The People's Champion'?",
+        option1: "Mike Tyson",
+        option2: "Muhammad Ali",
+        option3: "Floyd Mayweather",
+        option4: "Manny Pacquiao",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "In which sport is the term 'alley-oop' used?",
+        option1: "Basketball",
+        option2: "Football",
+        option3: "Baseball",
+        option4: "Tennis",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Which country has won the most Rugby World Cups?",
+        option1: "England",
+        option2: "Australia",
+        option3: "New Zealand",
+        option4: "South Africa",
+        ans: 3,
+        category: "sports"
+    },
+    {
+        question: "What is the term for a score of three points in basketball?",
+        option1: "Free throw",
+        option2: "Three-pointer",
+        option3: "Layup",
+        option4: "Dunk",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "Which athlete is famous for winning the 'Golden Slam' in tennis?",
+        option1: "Serena Williams",
+        option2: "Steffi Graf",
+        option3: "Martina Navratilova",
+        option4: "Venus Williams",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "What is the length of an Olympic swimming pool?",
+        option1: "50 meters",
+        option2: "25 meters",
+        option3: "100 meters",
+        option4: "75 meters",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "Which country has won the most medals in Winter Olympics history?",
+        option1: "Russia",
+        option2: "USA",
+        option3: "Norway",
+        option4: "Canada",
+        ans: 3,
+        category: "sports"
+    },
+    {
+        question: "In golf, what is a 'birdie'?",
+        option1: "One stroke under par",
+        option2: "One stroke over par",
+        option3: "Hole-in-one",
+        option4: "Two strokes under par",
+        ans: 1,
+        category: "sports"
+    },
+    {
+        question: "What is the maximum number of players on the field for a rugby union team?",
+        option1: "13",
+        option2: "11",
+        option3: "15",
+        option4: "7",
+        ans: 3,
+        category: "sports"
+    },
+    {
+        question: "Who is the all-time leading scorer in NBA history?",
+        option1: "LeBron James",
+        option2: "Kareem Abdul-Jabbar",
+        option3: "Michael Jordan",
+        option4: "Wilt Chamberlain",
+        ans: 2,
+        category: "sports"
+    },
+    {
+        question: "Which sport involves a pommel horse?",
+        option1: "Gymnastics",
+        option2: "Equestrian",
+        option3: "Wrestling",
+        option4: "Diving",
+        ans: 1,
+        category: "sports"
+    }
+];
+
 const politics = [
     {
         question: "Who is known as the 'Father of Modern Political Science'?",
@@ -2945,6 +4685,189 @@ const politics = [
         category: "politics"
     }
 ];
+const morePolitics = [
+    {
+        question: "Which country was the first to grant women the right to vote?",
+        option1: "United States",
+        option2: "New Zealand",
+        option3: "United Kingdom",
+        option4: "France",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "What is the main purpose of the Magna Carta (1215)?",
+        option1: "Establish monarchy",
+        option2: "Limit the king's power",
+        option3: "Create the Parliament",
+        option4: "Start a war",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Who was the first Chancellor of Germany after World War II?",
+        option1: "Helmut Kohl",
+        option2: "Konrad Adenauer",
+        option3: "Angela Merkel",
+        option4: "Otto von Bismarck",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Which political ideology advocates for abolishing private property?",
+        option1: "Socialism",
+        option2: "Communism",
+        option3: "Capitalism",
+        option4: "Libertarianism",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "What is the term for a government ruled by a small group of people?",
+        option1: "Oligarchy",
+        option2: "Democracy",
+        option3: "Monarchy",
+        option4: "Anarchy",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "Who was the leader of the Indian independence movement?",
+        option1: "Jawaharlal Nehru",
+        option2: "Mahatma Gandhi",
+        option3: "Subhas Chandra Bose",
+        option4: "Bhagat Singh",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Which political philosopher wrote 'Two Treatises of Government'?",
+        option1: "John Locke",
+        option2: "Thomas Hobbes",
+        option3: "Jean-Jacques Rousseau",
+        option4: "Niccolò Machiavelli",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "Which political system is characterized by the absence of government?",
+        option1: "Anarchy",
+        option2: "Totalitarianism",
+        option3: "Democracy",
+        option4: "Monarchy",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "What is the name of the legislative body in the United Kingdom?",
+        option1: "Congress",
+        option2: "Parliament",
+        option3: "Senate",
+        option4: "Diet",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Who was the first female president of the Philippines?",
+        option1: "Corazon Aquino",
+        option2: "Gloria Macapagal Arroyo",
+        option3: "Imelda Marcos",
+        option4: "Leni Robredo",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "What is the primary function of the judiciary branch in government?",
+        option1: "Make laws",
+        option2: "Enforce laws",
+        option3: "Interpret laws",
+        option4: "Conduct elections",
+        ans: 3,
+        category: "politics"
+    },
+    {
+        question: "Which treaty established the European Union?",
+        option1: "Treaty of Paris",
+        option2: "Treaty of Maastricht",
+        option3: "Treaty of Versailles",
+        option4: "Treaty of Rome",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Who is the current Secretary-General of the United Nations? (as of 2024)",
+        option1: "Antonio Guterres",
+        option2: "Ban Ki-moon",
+        option3: "Kofi Annan",
+        option4: "Boutros Boutros-Ghali",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "What does 'impeachment' refer to?",
+        option1: "Electing a president",
+        option2: "Removing a public official from office",
+        option3: "Passing a new law",
+        option4: "Calling for elections",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Which political leader delivered the famous 'I Have a Dream' speech?",
+        option1: "Malcolm X",
+        option2: "Martin Luther King Jr.",
+        option3: "Barack Obama",
+        option4: "Nelson Mandela",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Which country practices a theocratic form of government?",
+        option1: "Saudi Arabia",
+        option2: "United States",
+        option3: "China",
+        option4: "France",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "What is the purpose of the Electoral College in the United States?",
+        option1: "To elect the President",
+        option2: "To elect Senators",
+        option3: "To pass laws",
+        option4: "To approve judges",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "What is a 'referendum'?",
+        option1: "A type of election where citizens vote on a specific issue",
+        option2: "Election of a new government",
+        option3: "A protest against the government",
+        option4: "A political alliance",
+        ans: 1,
+        category: "politics"
+    },
+    {
+        question: "Who was the first Chancellor of the Federal Republic of Germany (West Germany)?",
+        option1: "Helmut Schmidt",
+        option2: "Konrad Adenauer",
+        option3: "Willy Brandt",
+        option4: "Angela Merkel",
+        ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Which political theory supports the idea of a 'social contract'?",
+        option1: "Marxism",
+        option2: "Liberalism",
+        option3: "Social Contract Theory",
+        option4: "Fascism",
+        ans: 3,
+        category: "politics"
+    }
+];
+
 
 
 export const data = [
@@ -2958,7 +4881,19 @@ export const data = [
     ...geography,
     ...economics,
     ...sports,
-    ...politics
+    ...politics,
+
+    ...moreGeneral,
+    ...moreScience,
+    ...moreTechnology,
+    ...moreMath,
+    ...moreHistory,
+    ...moreEnglish,
+    ...moreBangla,
+    ...moreGeography,
+    ...moreEconomics,
+    ...moreSports,
+    ...morePolitics
 ];
 
 
