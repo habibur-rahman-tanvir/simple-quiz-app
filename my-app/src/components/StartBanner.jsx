@@ -52,6 +52,8 @@ const StartBanner = ({
                     <option value={20}>20</option>
                     <option value={25}>25</option>
                     <option value={30}>30</option>
+                    <option value={40}>40</option>
+                    <option value={50}>50</option>
                 </select>
                 <button
                     className="block w-2/3 px-6 py-2 mx-auto my-4 text-2xl font-semibold text-white shadow shadow-black rounded-xl bg-emerald-700"

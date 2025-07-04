@@ -1392,6 +1392,15 @@ const bangla = [
         category: "bangla"
     },
     {
+        question: "When Kazi Nozrul was born?",
+        option1: "May 24, 1899",
+        option2: "Jun 24, 1899",
+        option3: "Jun 24, 1889",
+        option4: "May 14, 1889",
+        ans: 1,
+        category: "bangla"
+    },
+    {
         question: "Who is called the 'Rebel Poet' of Bangladesh?",
         option1: "Jasimuddin",
         option2: "Rabindranath Tagore",
@@ -2635,7 +2644,97 @@ const moreMath = [
         option4: "40",
         ans: 1,
         category: "math"
-    }
+    },
+    {
+        question: "What is the value of π (approximately)?",
+        option1: "3.14",
+        option2: "2.17",
+        option3: "4.13",
+        option4: "1.41",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 2³?",
+        option1: "8",
+        option2: "6",
+        option3: "9",
+        option4: "12",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 1000 ÷ 10?",
+        option1: "10",
+        option2: "100",
+        option3: "110",
+        option4: "90",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is 25 × 4?",
+        option1: "100",
+        option2: "75",
+        option3: "125",
+        option4: "90",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is 3 + 6 × 2?",
+        option1: "18",
+        option2: "15",
+        option3: "12",
+        option4: "21",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is 144 ÷ 12?",
+        option1: "10",
+        option2: "12",
+        option3: "14",
+        option4: "11",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is 2 + 2 × 2?",
+        option1: "6",
+        option2: "8",
+        option3: "4",
+        option4: "10",
+        ans: 1,
+        category: "math"
+    },
+    {
+        question: "What is the square of 12?",
+        option1: "124",
+        option2: "132",
+        option3: "144",
+        option4: "156",
+        ans: 3,
+        category: "math"
+    },
+    {
+        question: "Which number is a prime number?",
+        option1: "9",
+        option2: "11",
+        option3: "15",
+        option4: "21",
+        ans: 2,
+        category: "math"
+    },
+    {
+        question: "What is 7²?",
+        option1: "49",
+        option2: "42",
+        option3: "56",
+        option4: "63",
+        ans: 1,
+        category: "math"
+    },
 ];
 
 const history = [
@@ -2889,6 +2988,15 @@ const history = [
         option3: "Italy",
         option4: "Egypt",
         ans: 2,
+        category: "history"
+    },
+    {
+        question: "When bangladesh achived independent?",
+        option1: "1952",
+        option2: "1947",
+        option3: "1971",
+        option4: "1978",
+        ans: 3,
         category: "history"
     },
     {
@@ -3577,6 +3685,15 @@ const economics = [
         category: "economics"
     },
     {
+        question: "NNP stand for?",
+        option1: "Nat National Income",
+        option2: "Net National Income",
+        option3: "Net National Investment",
+        option4: "Net Income",
+        ans: 2,
+        category: "economics"
+    },
+    {
         question: "Which organization manages the world’s monetary system?",
         option1: "World Bank",
         option2: "International Monetary Fund (IMF)",
@@ -4005,6 +4122,15 @@ const sports = [
         category: "sports"
     },
     {
+        question: "How many players are there in a cricket team on the field?",
+        option1: "11",
+        option2: "9",
+        option3: "10",
+        option4: "12",
+        ans: 1,
+        category: "sports"
+    },
+    {
         question: "Who holds the record for the most Olympic gold medals?",
         option1: "Michael Phelps",
         option2: "Usain Bolt",
@@ -4020,6 +4146,15 @@ const sports = [
         option3: "Cricket",
         option4: "Tennis",
         ans: 2,
+        category: "sports"
+    },
+    {
+        question: "Which sport is known as the 'king of sports'?",
+        option1: "Basketball",
+        option2: "Cricket",
+        option3: "Football (Soccer)",
+        option4: "Tennis",
+        ans: 3,
         category: "sports"
     },
     {
@@ -4646,6 +4781,15 @@ const politics = [
         option3: "To manage global economy",
         option4: "To organize sports events",
         ans: 2,
+        category: "politics"
+    },
+    {
+        question: "Who was the prime minister of Bangladesh in 2025?",
+        option1: "Shekh Hasina",
+        option2: "Ziaur Rahman",
+        option3: "Dr. Yunos",
+        option4: "Khaleda Zia",
+        ans: 3,
         category: "politics"
     },
     {
