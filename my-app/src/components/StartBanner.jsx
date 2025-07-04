@@ -26,17 +26,17 @@ const StartBanner = ({
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none"
                 >
                     <option value="all">All</option>
-                    <option value="general">General</option>
                     <option value="science">Science</option>
                     <option value="technology">Technology</option>
                     <option value="math">Math</option>
-                    <option value="history">History</option>
-                    <option value="english">English</option>
-                    <option value="bangla">Bangla</option>
-                    <option value="geography">Geography</option>
                     <option value="economics">Economics</option>
-                    <option value="sports">Sports</option>
+                    <option value="general">General</option>
+                    <option value="english">English</option>
+                    <option value="geography">Geography</option>
+                    <option value="history">History</option>
+                    <option value="bangla">Bangla</option>
                     <option value="politics">Politics</option>
+                    <option value="sports">Sports</option>
                 </select>
                 <label className="block mb-1 font-medium text-gray-700">
                     Number of Questions

@@ -34,6 +34,13 @@ const App = () => {
                     )}
                 </div>
             </div>
+            <a
+                className="absolute left-2 text-blue-800 bottom-2"
+                target="_blank"
+                href="https://www.facebook.com/profile.php?id=61574983536229"
+            >
+                Developer FB
+            </a>
         </div>
     );
 };
