@@ -39,7 +39,7 @@ const App = () => {
                 target="_blank"
                 href="https://www.facebook.com/profile.php?id=61574983536229"
             >
-                Developer
+                Siddiqur Rahman
             </a>
         </div>
     );
